@@ -1,0 +1,154 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Chatbot Customer Service</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f5f5f5;
+            }
+            .chat-container {
+                max-width: 600px;
+                margin: 20px auto;
+                background-color: white;
+                border-radius: 10px;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+                overflow: hidden;
+            }
+            .chat-header {
+                background-color: #4a89dc;
+                color: white;
+                padding: 15px;
+                text-align: center;
+                font-size: 18px;
+                font-weight: bold;
+            }
+            .chat-messages {
+                padding: 15px;
+                max-height: 400px;
+                overflow-y: auto;
+            }
+            .message {
+                margin-bottom: 15px;
+                padding: 10px 15px;
+                border-radius: 20px;
+                max-width: 80%;
+                word-wrap: break-word;
+            }
+            .user-message {
+                background-color: #e6f2ff;
+                margin-left: auto;
+                border-bottom-right-radius: 5px;
+            }
+            .bot-message {
+                background-color: #f0f0f0;
+                margin-right: auto;
+                border-bottom-left-radius: 5px;
+            }
+            .chat-input {
+                display: flex;
+                padding: 15px;
+                background-color: #f9f9f9;
+                border-top: 1px solid #eee;
+            }
+            #message-input {
+                flex: 1;
+                padding: 10px 15px;
+                border: 1px solid #ddd;
+                border-radius: 30px;
+                outline: none;
+                font-size: 16px;
+            }
+            #send-button {
+                margin-left: 10px;
+                padding: 10px 20px;
+                background-color: #4a89dc;
+                color: white;
+                border: none;
+                border-radius: 30px;
+                cursor: pointer;
+                font-size: 16px;
+            }
+            #send-button:hover {
+                background-color: #3b7dd8;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="chat-container">
+            <div class="chat-header">
+                Customer Service Chatbot
+            </div>
+            <div class="chat-messages" id="chat-messages">
+                <div class="message bot-message">
+                    Selamat datang di layanan customer service kami. Ada yang bisa saya bantu mengenai pemesanan tiket?
+                </div>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="message-input" placeholder="Tulis pesan Anda...">
+                <button id="send-button">Kirim</button>
+            </div>
+        </div>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const messagesContainer = document.getElementById('chat-messages');
+                const messageInput = document.getElementById('message-input');
+                const sendButton = document.getElementById('send-button');
+
+                function addMessage(content, isUser) {
+                    const messageDiv = document.createElement('div');
+                    messageDiv.classList.add('message');
+                    messageDiv.classList.add(isUser ? 'user-message' : 'bot-message');
+                    messageDiv.textContent = content;
+                    messagesContainer.appendChild(messageDiv);
+                    messagesContainer.scrollTop = messagesContainer.scrollHeight;
+                }
+
+                async function sendMessage() {
+                    const message = messageInput.value.trim();
+                    if (!message) return;
+
+                    // Tambahkan pesan pengguna ke chat
+                    addMessage(message, true);
+                    messageInput.value = '';
+
+                    try {
+                        // Kirim pesan ke API
+                        const response = await fetch('/api/chat', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({ message })
+                        });
+
+                        const data = await response.json();
+                        
+                        if (response.ok) {
+                            // Tambahkan respons bot
+                            addMessage(data.response, false);
+                        } else {
+                            addMessage('Maaf, terjadi kesalahan. Silakan coba lagi.', false);
+                        }
+                    } catch (error) {
+                        console.error('Error:', error);
+                        addMessage('Maaf, terjadi kesalahan koneksi. Silakan coba lagi.', false);
+                    }
+                }
+
+                // Event listeners
+                sendButton.addEventListener('click', sendMessage);
+                messageInput.addEventListener('keypress', function(event) {
+                    if (event.key === 'Enter') {
+                        sendMessage();
+                    }
+                });
+            });
+        </script>
+    </body>
+    </html>
+    

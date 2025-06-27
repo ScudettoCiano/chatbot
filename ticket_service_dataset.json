@@ -1,0 +1,86 @@
+[
+    {
+      "instruction": "Bagaimana cara memesan tiket?",
+      "response": "Untuk memesan tiket, Anda dapat mengikuti langkah-langkah berikut:\n1. Kunjungi website kami di www.example.com atau buka aplikasi mobile kami\n2. Pilih menu 'Pesan Tiket'\n3. Pilih tujuan dan tanggal perjalanan Anda\n4. Pilih jenis tiket dan jumlah penumpang\n5. Isi data diri penumpang\n6. Pilih metode pembayaran dan selesaikan transaksi\n7. Tiket akan dikirimkan ke email yang terdaftar"
+    },
+    {
+      "instruction": "Bagaimana cara membatalkan pesanan tiket?",
+      "response": "Untuk membatalkan pesanan tiket, silakan ikuti panduan berikut:\n1. Login ke akun Anda\n2. Buka menu 'Pesanan Saya'\n3. Pilih pesanan yang ingin dibatalkan\n4. Klik tombol 'Batalkan Pesanan'\n5. Ikuti petunjuk selanjutnya untuk konfirmasi pembatalan\n\nPerlu diingat bahwa kebijakan pembatalan dan pengembalian dana tergantung pada jenis tiket yang Anda pesan. Beberapa tiket mungkin tidak dapat dikembalikan dananya atau dikenakan biaya pembatalan."
+    },
+    {
+      "instruction": "Berapa lama waktu yang dibutuhkan untuk mendapatkan refund?",
+      "response": "Proses refund atau pengembalian dana biasanya membutuhkan waktu 7-14 hari kerja setelah permintaan pembatalan disetujui. Waktu pengkreditan kembali ke rekening Anda juga tergantung pada bank atau metode pembayaran yang Anda gunakan. Untuk tiket yang menggunakan promo atau diskon khusus, mungkin berlaku kebijakan refund yang berbeda sesuai dengan syarat dan ketentuan yang berlaku saat pembelian."
+    },
+    {
+      "instruction": "Bagaimana cara mengubah jadwal tiket?",
+      "response": "Untuk mengubah jadwal tiket Anda, silakan ikuti langkah-langkah berikut:\n1. Login ke akun Anda\n2. Buka menu 'Pesanan Saya'\n3. Pilih pesanan yang jadwalnya ingin diubah\n4. Klik opsi 'Ubah Jadwal'\n5. Pilih jadwal baru yang tersedia\n6. Bayar selisih harga jika ada\n7. Konfirmasi perubahan jadwal\n\nPerhatikan bahwa tidak semua jenis tiket dapat diubah jadwalnya dan mungkin ada biaya tambahan untuk perubahan jadwal tergantung kebijakan yang berlaku."
+    },
+    {
+      "instruction": "Apakah ada diskon untuk pemesanan tiket dalam jumlah banyak?",
+      "response": "Ya, kami menyediakan diskon untuk pemesanan tiket dalam jumlah banyak, silahkan hubungi admin"
+    },
+    {
+      "instruction": "Bagaimana cara mencetak tiket yang sudah dibeli?",
+      "response": "Untuk mencetak tiket yang sudah dibeli, Anda memiliki beberapa pilihan:\n1. Buka email konfirmasi pemesanan dan unduh file PDF tiket yang terlampir\n2. Login ke akun Anda, buka 'Pesanan Saya', pilih pesanan yang ingin dicetak, dan klik tombol 'Cetak Tiket'\n3. Gunakan fitur mobile boarding pass di aplikasi kami dengan cara membuka pesanan dan memilih 'Tampilkan Boarding Pass'\n\nPerlu diingat bahwa untuk beberapa jenis perjalanan, Anda tidak perlu mencetak tiket fisik dan cukup menunjukkan e-ticket atau boarding pass di smartphone Anda."
+    },
+    {
+      "instruction": "Apakah saya perlu membuat akun untuk memesan tiket?",
+      "response": "Anda tidak wajib membuat akun untuk memesan tiket, karena kami menyediakan opsi pemesanan sebagai tamu. Namun, kami sangat menyarankan untuk membuat akun karena memberikan beberapa keuntungan seperti:\n1. Menyimpan riwayat perjalanan Anda\n2. Proses checkout yang lebih cepat untuk pemesanan berikutnya\n3. Kemudahan dalam mengelola, mengubah, atau membatalkan pesanan\n4. Mendapatkan poin rewards untuk setiap pemesanan\n5. Akses ke promo dan diskon khusus untuk member\n\nPembuatan akun sangat mudah dan hanya membutuhkan waktu kurang dari 1 menit."
+    },
+    {
+      "instruction": "Metode pembayaran apa saja yang tersedia?",
+      "response": "Kami menerima berbagai metode pembayaran untuk memudahkan Anda, di antaranya:\n1. Kartu kredit (Visa, Mastercard, American Express)\n2. Kartu debit yang berlogo Visa/Mastercard\n3. Transfer bank (BCA, Mandiri, BNI, BRI)\n4. E-wallet (OVO, GoPay, DANA, LinkAja, ShopeePay)\n5. Pembayaran melalui minimarket (Indomaret, Alfamart)\n6. Cicilan 0% untuk bank tertentu dengan minimum pembelian\n\nSemua transaksi dilakukan melalui gateway pembayaran yang aman dan terenkripsi."
+    },
+    {
+      "instruction": "Berapa batas waktu pembayaran setelah memesan tiket?",
+      "response": "Batas waktu pembayaran adalah 2 jam "
+    },
+    {
+      "instruction": "Apakah ada batasan bagasi untuk tiket yang saya beli?",
+      "response": "Ya, setiap tiket memiliki kebijakan bagasi yang berbeda tergantung jenis layanan dan kelasnya. Secara umum:\n1. Tiket ekonomi: bagasi kabin 7kg dan bagasi tercatat 20kg\n2. Tiket bisnis: bagasi kabin 10kg dan bagasi tercatat 30kg\n3. Tiket first class: bagasi kabin 14kg dan bagasi tercatat 40kg\n\nUntuk barang berharga seperti laptop, kamera, atau perhiasan, sebaiknya dibawa dalam bagasi kabin. Barang-barang tertentu seperti cairan lebih dari 100ml, benda tajam, dan bahan berbahaya tidak diperbolehkan dalam bagasi kabin. Informasi detail mengenai kebijakan bagasi akan tercantum pada tiket Anda."
+    },
+    {
+      "instruction": "Apa yang harus dilakukan jika saya lupa nomor booking?",
+      "response": "Jika Anda lupa nomor booking, jangan khawatir. Ada beberapa cara untuk menemukannya kembali:\n1. Periksa email konfirmasi pemesanan yang dikirim ke alamat email yang Anda gunakan saat pemesanan\n2. Jika Anda memiliki akun, login dan lihat di menu 'Pesanan Saya'\n3. Periksa SMS konfirmasi jika Anda memberikan nomor ponsel saat pemesanan\n4. Hubungi layanan pelanggan kami di 0800-123-4567 dengan menyebutkan nama lengkap dan informasi identitas lain untuk verifikasi\n\nUntuk keamanan, pastikan selalu menyimpan nomor booking dan detail pesanan di tempat yang mudah diakses namun tetap aman."
+    },
+    {
+      "instruction": "Apakah ada biaya tambahan untuk memilih tempat duduk?",
+      "response": "Kebijakan pemilihan tempat duduk bervariasi tergantung jenis tiket yang Anda beli:\n1. Tiket promo atau ekonomi dasar: Biasanya dikenakan biaya tambahan mulai dari Rp 50.000 - Rp 150.000 tergantung lokasi kursi\n2. Tiket ekonomi fleksibel: Pemilihan kursi standar gratis, namun untuk kursi dengan ruang kaki lebih lega dikenakan biaya tambahan\n3. Tiket bisnis dan first class: Pemilihan tempat duduk sudah termasuk dalam harga tiket\n\nUntuk grup keluarga dengan anak kecil, kami akan berusaha menempatkan Anda berdekatan tanpa biaya tambahan meski Anda membeli tiket ekonomi dasar."
+    },
+    {
+      "instruction": "Bagaimana cara mendapatkan e-ticket jika email konfirmasi tidak masuk?",
+      "response": "Jika email konfirmasi beserta e-ticket tidak masuk ke inbox Anda, silakan ikuti langkah-langkah berikut:\n1. Periksa folder spam atau junk di email Anda\n2. Jika Anda memiliki akun, login dan unduh e-ticket dari menu 'Pesanan Saya'\n3. Hubungi layanan pelanggan kami di 0800-123-4567 dengan menyebutkan nama lengkap dan nomor booking (jika ada)\n4. Kirim pesan ke email support@example.com dengan subjek 'Permintaan Ulang E-ticket' beserta detail pemesanan\n\nKami akan mengirimkan ulang e-ticket Anda segera setelah verifikasi data selesai dilakukan."
+    },
+    {
+      "instruction": "Apa perbedaan antara economy class dan business class?",
+      "response": "Perbedaan utama antara economy class dan business class meliputi:\n\n1. Kenyamanan:\n   - Economy: Kursi standar dengan ruang kaki terbatas\n   - Business: Kursi lebih lebar, dapat direbahkan, dan ruang kaki lebih lega\n\n2. Layanan:\n   - Economy: Layanan standar dengan makanan dan minuman sesuai paket\n   - Business: Layanan premium, makanan dengan menu pilihan, dan minuman premium\n\n3. Check-in & Bagasi:\n   - Economy: Antrian reguler, bagasi 20kg\n   - Business: Check-in prioritas, bagasi hingga 30kg\n\n4. Fasilitas tambahan:\n   - Economy: Akses hiburan standar\n   - Business: Akses lounge, hiburan premium, kit kenyamanan\n\n5. Harga:\n   - Business class biasanya 2-3 kali lipat harga economy class"
+    },
+    {
+      "instruction": "Bisakah saya memesan tiket untuk orang lain?",
+      "response": "Ya, Anda dapat memesan tiket untuk orang lain. Saat mengisi data penumpang, pastikan Anda memasukkan nama lengkap dan informasi sesuai dengan identitas resmi (KTP/Paspor) orang yang akan melakukan perjalanan. Hal-hal yang perlu diperhatikan:\n\n1. Pastikan ejaan nama sama persis dengan dokumen identitas untuk menghindari masalah saat check-in\n2. Sertakan informasi kontak Anda dan juga penumpang untuk komunikasi darurat\n3. Jika Anda membayar dengan kartu kredit, beberapa maskapai mungkin meminta verifikasi kartu saat check-in\n4. Untuk pemesanan tiket anak-anak di bawah umur tanpa pendamping, mohon hubungi customer service kami untuk informasi kebijakan khusus"
+    },
+    {
+      "instruction": "Kapan waktu terbaik untuk memesan tiket agar mendapatkan harga termurah?",
+      "response": "Untuk mendapatkan harga tiket termurah, berikut beberapa tips waktu pemesanan:\n\n1. Waktu pemesanan:\n   - 2-3 bulan sebelum keberangkatan untuk penerbangan domestik\n   - 4-5 bulan sebelum keberangkatan untuk penerbangan internasional\n   - Hari Selasa dan Rabu siang biasanya menawarkan harga lebih murah\n\n2. Hindari pemesanan pada:\n   - Musim liburan sekolah atau libur nasional\n   - Weekend atau hari-hari menjelang libur panjang\n   - H-7 keberangkatan karena harga cenderung naik drastis\n\n3. Manfaatkan:\n   - Fitur notifikasi harga di aplikasi kami\n   - Promo flash sale yang biasanya muncul awal bulan\n   - Program member untuk mendapatkan diskon khusus"
+    },
+    {
+      "instruction": "Apa yang harus dilakukan jika nama di tiket salah ketik?",
+      "response": "Jika terdapat kesalahan penulisan nama pada tiket, segera lakukan langkah berikut:\n\n1. Untuk kesalahan minor (1-2 huruf):\n   - Hubungi customer service kami segera di 0800-123-4567\n   - Sediakan bukti identitas asli untuk verifikasi\n   - Mungkin dikenakan biaya administrasi kecil untuk perubahan\n\n2. Untuk kesalahan major (lebih dari 2 huruf atau nama berbeda):\n   - Tiket mungkin perlu dibatalkan dan dipesan ulang\n   - Akan dikenakan biaya pembatalan sesuai kebijakan yang berlaku\n\n3. Waktu perbaikan:\n   - Lakukan sesegera mungkin, idealnya dalam 24 jam setelah pemesanan\n   - Perubahan tidak mungkin dilakukan kurang dari 48 jam sebelum keberangkatan\n\nPastikan selalu memeriksa ulang semua data sebelum mengonfirmasi pemesanan."
+    },
+    {
+      "instruction": "Berapa lama sebelum keberangkatan saya harus tiba di stasiun/bandara/terminal?",
+      "response": "Waktu kedatangan yang disarankan sebelum keberangkatan:\n\n1. Untuk transportasi kereta api:\n   - Keberangkatan domestik: minimal 30-45 menit sebelum jadwal\n   - Untuk stasiun besar di jam sibuk: 45-60 menit sebelum jadwal\n\n2. Untuk penerbangan:\n   - Domestik tanpa bagasi: 1-1.5 jam sebelum keberangkatan\n   - Domestik dengan bagasi: 1.5-2 jam sebelum keberangkatan\n   - Internasional: 3 jam sebelum keberangkatan\n\n3. Untuk transportasi bus/kapal:\n   - Minimal 30 menit sebelum jadwal keberangkatan\n\nFaktor tambahan yang perlu dipertimbangkan:\n- Tambahkan waktu ekstra saat musim liburan atau jam sibuk\n- Pertimbangkan waktu perjalanan ke terminal dan kemungkinan kemacetan\n- Check-in online dapat menghemat waktu Anda di lokasi keberangkatan"
+    },
+    {
+      "instruction": "Bagaimana jika saya ketinggalan jadwal keberangkatan?",
+      "response": "Jika Anda ketinggalan jadwal keberangkatan, berikut langkah-langkah yang dapat dilakukan:\n\n1. Segera hubungi customer service kami di 0800-123-4567 atau petugas di lokasi keberangkatan\n\n2. Untuk tiket dengan kebijakan fleksibel:\n   - Kemungkinan bisa dialihkan ke jadwal berikutnya dengan biaya tambahan\n   - Biaya reschedule biasanya 10-30% dari harga tiket asli\n\n3. Untuk tiket promo atau non-refundable:\n   - Umumnya tidak dapat dikembalikan atau dijadwal ulang\n   - Namun dalam kasus tertentu (seperti alasan medis dengan bukti), kami dapat mempertimbangkan kebijaksanaan khusus\n\n4. Opsi alternatif:\n   - Pembelian tiket last minute untuk jadwal berikutnya (jika tersedia)\n   - Konsultasikan dengan petugas untuk solusi transportasi alternatif\n\nUntuk menghindari situasi ini, kami menyarankan menggunakan fitur pengingat di aplikasi kami dan tiba lebih awal dari waktu yang disarankan."
+    },
+    {
+      "instruction": "Apakah tiket bisa ditransfer ke orang lain?",
+      "response": "Kebijakan transfer tiket ke orang lain:\n\n1. Aturan umum:\n   - Sebagian besar tiket tidak dapat ditransfer ke orang lain karena alasan keamanan dan administratif\n   - Tiket terikat dengan identitas penumpang yang tercantum pada saat pemesanan\n\n2. Opsi yang tersedia:\n   - Pembatalan tiket (dengan penalti sesuai ketentuan) dan pemesanan baru untuk orang lain\n   - Untuk tiket fleksibel premium, beberapa pengecualian mungkin berlaku dengan biaya administrasi tinggi\n\n3. Kasus khusus:\n   - Untuk grup korporat dengan kontrak khusus, penggantian nama penumpang mungkin diizinkan dengan pemberitahuan minimal 72 jam\n   - Alasan medis dengan bukti resmi dapat dipertimbangkan untuk pengecualian kebijakan\n\nUntuk informasi lebih detail sesuai jenis tiket Anda, silakan hubungi customer service kami di 0800-123-4567."
+    },
+    {
+      "instruction": "Bagaimana cara memeriksa status pesanan tiket saya?",
+      "response": "Untuk memeriksa status pesanan tiket Anda, silakan ikuti salah satu cara berikut:\n\n1. Melalui website:\n   - Kunjungi www.example.com/status\n   - Masukkan nomor booking dan nama belakang penumpang\n   - Klik 'Cek Status' untuk melihat informasi terkini\n\n2. Melalui aplikasi mobile:\n   - Login ke akun Anda\n   - Buka menu 'Pesanan Saya'\n   - Pilih pesanan yang ingin diperiksa statusnya\n\n3. Melalui email:\n   - Buka email konfirmasi pemesanan\n   - Klik tautan 'Cek Status Pesanan' yang tersedia\n\n4. Hubungi customer service:\n   - Telepon 0800-123-4567\n   - Sebutkan nomor booking dan identitas Anda untuk verifikasi\n\nStatus pesanan biasanya meliputi: Menunggu Pembayaran, Pembayaran Diterima, Tiket Terbit, Dibatalkan, atau Selesai."
+    }
+  ]
