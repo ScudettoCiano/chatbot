@@ -449,3 +449,9 @@ if __name__ == '__main__':
     
     # Jalankan aplikasi Flask dengan host yang eksplisit
     app.run(host='0.0.0.0', port=9000, debug=True)
+
+import os
+if not os.path.exists("ticket_service_model.pt"):
+    import gdown
+    url = "https://drive.google.com/uc?id=ID_FILE_MODEL_ANDA"
+    gdown.download(url, "ticket_service_model.pt", quiet=False)
