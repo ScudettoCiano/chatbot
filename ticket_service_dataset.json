@@ -1,86 +1,2050 @@
 [
-    {
-      "instruction": "Bagaimana cara memesan tiket?",
-      "response": "Untuk memesan tiket, Anda dapat mengikuti langkah-langkah berikut:\n1. Kunjungi website kami di www.example.com atau buka aplikasi mobile kami\n2. Pilih menu 'Pesan Tiket'\n3. Pilih tujuan dan tanggal perjalanan Anda\n4. Pilih jenis tiket dan jumlah penumpang\n5. Isi data diri penumpang\n6. Pilih metode pembayaran dan selesaikan transaksi\n7. Tiket akan dikirimkan ke email yang terdaftar"
-    },
-    {
-      "instruction": "Bagaimana cara membatalkan pesanan tiket?",
-      "response": "Untuk membatalkan pesanan tiket, silakan ikuti panduan berikut:\n1. Login ke akun Anda\n2. Buka menu 'Pesanan Saya'\n3. Pilih pesanan yang ingin dibatalkan\n4. Klik tombol 'Batalkan Pesanan'\n5. Ikuti petunjuk selanjutnya untuk konfirmasi pembatalan\n\nPerlu diingat bahwa kebijakan pembatalan dan pengembalian dana tergantung pada jenis tiket yang Anda pesan. Beberapa tiket mungkin tidak dapat dikembalikan dananya atau dikenakan biaya pembatalan."
-    },
-    {
-      "instruction": "Berapa lama waktu yang dibutuhkan untuk mendapatkan refund?",
-      "response": "Proses refund atau pengembalian dana biasanya membutuhkan waktu 7-14 hari kerja setelah permintaan pembatalan disetujui. Waktu pengkreditan kembali ke rekening Anda juga tergantung pada bank atau metode pembayaran yang Anda gunakan. Untuk tiket yang menggunakan promo atau diskon khusus, mungkin berlaku kebijakan refund yang berbeda sesuai dengan syarat dan ketentuan yang berlaku saat pembelian."
-    },
-    {
-      "instruction": "Bagaimana cara mengubah jadwal tiket?",
-      "response": "Untuk mengubah jadwal tiket Anda, silakan ikuti langkah-langkah berikut:\n1. Login ke akun Anda\n2. Buka menu 'Pesanan Saya'\n3. Pilih pesanan yang jadwalnya ingin diubah\n4. Klik opsi 'Ubah Jadwal'\n5. Pilih jadwal baru yang tersedia\n6. Bayar selisih harga jika ada\n7. Konfirmasi perubahan jadwal\n\nPerhatikan bahwa tidak semua jenis tiket dapat diubah jadwalnya dan mungkin ada biaya tambahan untuk perubahan jadwal tergantung kebijakan yang berlaku."
-    },
-    {
-      "instruction": "Apakah ada diskon untuk pemesanan tiket dalam jumlah banyak?",
-      "response": "Ya, kami menyediakan diskon untuk pemesanan tiket dalam jumlah banyak, silahkan hubungi admin"
-    },
-    {
-      "instruction": "Bagaimana cara mencetak tiket yang sudah dibeli?",
-      "response": "Untuk mencetak tiket yang sudah dibeli, Anda memiliki beberapa pilihan:\n1. Buka email konfirmasi pemesanan dan unduh file PDF tiket yang terlampir\n2. Login ke akun Anda, buka 'Pesanan Saya', pilih pesanan yang ingin dicetak, dan klik tombol 'Cetak Tiket'\n3. Gunakan fitur mobile boarding pass di aplikasi kami dengan cara membuka pesanan dan memilih 'Tampilkan Boarding Pass'\n\nPerlu diingat bahwa untuk beberapa jenis perjalanan, Anda tidak perlu mencetak tiket fisik dan cukup menunjukkan e-ticket atau boarding pass di smartphone Anda."
-    },
-    {
-      "instruction": "Apakah saya perlu membuat akun untuk memesan tiket?",
-      "response": "Anda tidak wajib membuat akun untuk memesan tiket, karena kami menyediakan opsi pemesanan sebagai tamu. Namun, kami sangat menyarankan untuk membuat akun karena memberikan beberapa keuntungan seperti:\n1. Menyimpan riwayat perjalanan Anda\n2. Proses checkout yang lebih cepat untuk pemesanan berikutnya\n3. Kemudahan dalam mengelola, mengubah, atau membatalkan pesanan\n4. Mendapatkan poin rewards untuk setiap pemesanan\n5. Akses ke promo dan diskon khusus untuk member\n\nPembuatan akun sangat mudah dan hanya membutuhkan waktu kurang dari 1 menit."
-    },
-    {
-      "instruction": "Metode pembayaran apa saja yang tersedia?",
-      "response": "Kami menerima berbagai metode pembayaran untuk memudahkan Anda, di antaranya:\n1. Kartu kredit (Visa, Mastercard, American Express)\n2. Kartu debit yang berlogo Visa/Mastercard\n3. Transfer bank (BCA, Mandiri, BNI, BRI)\n4. E-wallet (OVO, GoPay, DANA, LinkAja, ShopeePay)\n5. Pembayaran melalui minimarket (Indomaret, Alfamart)\n6. Cicilan 0% untuk bank tertentu dengan minimum pembelian\n\nSemua transaksi dilakukan melalui gateway pembayaran yang aman dan terenkripsi."
-    },
-    {
-      "instruction": "Berapa batas waktu pembayaran setelah memesan tiket?",
-      "response": "Batas waktu pembayaran adalah 2 jam "
-    },
-    {
-      "instruction": "Apakah ada batasan bagasi untuk tiket yang saya beli?",
-      "response": "Ya, setiap tiket memiliki kebijakan bagasi yang berbeda tergantung jenis layanan dan kelasnya. Secara umum:\n1. Tiket ekonomi: bagasi kabin 7kg dan bagasi tercatat 20kg\n2. Tiket bisnis: bagasi kabin 10kg dan bagasi tercatat 30kg\n3. Tiket first class: bagasi kabin 14kg dan bagasi tercatat 40kg\n\nUntuk barang berharga seperti laptop, kamera, atau perhiasan, sebaiknya dibawa dalam bagasi kabin. Barang-barang tertentu seperti cairan lebih dari 100ml, benda tajam, dan bahan berbahaya tidak diperbolehkan dalam bagasi kabin. Informasi detail mengenai kebijakan bagasi akan tercantum pada tiket Anda."
-    },
-    {
-      "instruction": "Apa yang harus dilakukan jika saya lupa nomor booking?",
-      "response": "Jika Anda lupa nomor booking, jangan khawatir. Ada beberapa cara untuk menemukannya kembali:\n1. Periksa email konfirmasi pemesanan yang dikirim ke alamat email yang Anda gunakan saat pemesanan\n2. Jika Anda memiliki akun, login dan lihat di menu 'Pesanan Saya'\n3. Periksa SMS konfirmasi jika Anda memberikan nomor ponsel saat pemesanan\n4. Hubungi layanan pelanggan kami di 0800-123-4567 dengan menyebutkan nama lengkap dan informasi identitas lain untuk verifikasi\n\nUntuk keamanan, pastikan selalu menyimpan nomor booking dan detail pesanan di tempat yang mudah diakses namun tetap aman."
-    },
-    {
-      "instruction": "Apakah ada biaya tambahan untuk memilih tempat duduk?",
-      "response": "Kebijakan pemilihan tempat duduk bervariasi tergantung jenis tiket yang Anda beli:\n1. Tiket promo atau ekonomi dasar: Biasanya dikenakan biaya tambahan mulai dari Rp 50.000 - Rp 150.000 tergantung lokasi kursi\n2. Tiket ekonomi fleksibel: Pemilihan kursi standar gratis, namun untuk kursi dengan ruang kaki lebih lega dikenakan biaya tambahan\n3. Tiket bisnis dan first class: Pemilihan tempat duduk sudah termasuk dalam harga tiket\n\nUntuk grup keluarga dengan anak kecil, kami akan berusaha menempatkan Anda berdekatan tanpa biaya tambahan meski Anda membeli tiket ekonomi dasar."
-    },
-    {
-      "instruction": "Bagaimana cara mendapatkan e-ticket jika email konfirmasi tidak masuk?",
-      "response": "Jika email konfirmasi beserta e-ticket tidak masuk ke inbox Anda, silakan ikuti langkah-langkah berikut:\n1. Periksa folder spam atau junk di email Anda\n2. Jika Anda memiliki akun, login dan unduh e-ticket dari menu 'Pesanan Saya'\n3. Hubungi layanan pelanggan kami di 0800-123-4567 dengan menyebutkan nama lengkap dan nomor booking (jika ada)\n4. Kirim pesan ke email support@example.com dengan subjek 'Permintaan Ulang E-ticket' beserta detail pemesanan\n\nKami akan mengirimkan ulang e-ticket Anda segera setelah verifikasi data selesai dilakukan."
-    },
-    {
-      "instruction": "Apa perbedaan antara economy class dan business class?",
-      "response": "Perbedaan utama antara economy class dan business class meliputi:\n\n1. Kenyamanan:\n   - Economy: Kursi standar dengan ruang kaki terbatas\n   - Business: Kursi lebih lebar, dapat direbahkan, dan ruang kaki lebih lega\n\n2. Layanan:\n   - Economy: Layanan standar dengan makanan dan minuman sesuai paket\n   - Business: Layanan premium, makanan dengan menu pilihan, dan minuman premium\n\n3. Check-in & Bagasi:\n   - Economy: Antrian reguler, bagasi 20kg\n   - Business: Check-in prioritas, bagasi hingga 30kg\n\n4. Fasilitas tambahan:\n   - Economy: Akses hiburan standar\n   - Business: Akses lounge, hiburan premium, kit kenyamanan\n\n5. Harga:\n   - Business class biasanya 2-3 kali lipat harga economy class"
-    },
-    {
-      "instruction": "Bisakah saya memesan tiket untuk orang lain?",
-      "response": "Ya, Anda dapat memesan tiket untuk orang lain. Saat mengisi data penumpang, pastikan Anda memasukkan nama lengkap dan informasi sesuai dengan identitas resmi (KTP/Paspor) orang yang akan melakukan perjalanan. Hal-hal yang perlu diperhatikan:\n\n1. Pastikan ejaan nama sama persis dengan dokumen identitas untuk menghindari masalah saat check-in\n2. Sertakan informasi kontak Anda dan juga penumpang untuk komunikasi darurat\n3. Jika Anda membayar dengan kartu kredit, beberapa maskapai mungkin meminta verifikasi kartu saat check-in\n4. Untuk pemesanan tiket anak-anak di bawah umur tanpa pendamping, mohon hubungi customer service kami untuk informasi kebijakan khusus"
-    },
-    {
-      "instruction": "Kapan waktu terbaik untuk memesan tiket agar mendapatkan harga termurah?",
-      "response": "Untuk mendapatkan harga tiket termurah, berikut beberapa tips waktu pemesanan:\n\n1. Waktu pemesanan:\n   - 2-3 bulan sebelum keberangkatan untuk penerbangan domestik\n   - 4-5 bulan sebelum keberangkatan untuk penerbangan internasional\n   - Hari Selasa dan Rabu siang biasanya menawarkan harga lebih murah\n\n2. Hindari pemesanan pada:\n   - Musim liburan sekolah atau libur nasional\n   - Weekend atau hari-hari menjelang libur panjang\n   - H-7 keberangkatan karena harga cenderung naik drastis\n\n3. Manfaatkan:\n   - Fitur notifikasi harga di aplikasi kami\n   - Promo flash sale yang biasanya muncul awal bulan\n   - Program member untuk mendapatkan diskon khusus"
-    },
-    {
-      "instruction": "Apa yang harus dilakukan jika nama di tiket salah ketik?",
-      "response": "Jika terdapat kesalahan penulisan nama pada tiket, segera lakukan langkah berikut:\n\n1. Untuk kesalahan minor (1-2 huruf):\n   - Hubungi customer service kami segera di 0800-123-4567\n   - Sediakan bukti identitas asli untuk verifikasi\n   - Mungkin dikenakan biaya administrasi kecil untuk perubahan\n\n2. Untuk kesalahan major (lebih dari 2 huruf atau nama berbeda):\n   - Tiket mungkin perlu dibatalkan dan dipesan ulang\n   - Akan dikenakan biaya pembatalan sesuai kebijakan yang berlaku\n\n3. Waktu perbaikan:\n   - Lakukan sesegera mungkin, idealnya dalam 24 jam setelah pemesanan\n   - Perubahan tidak mungkin dilakukan kurang dari 48 jam sebelum keberangkatan\n\nPastikan selalu memeriksa ulang semua data sebelum mengonfirmasi pemesanan."
-    },
-    {
-      "instruction": "Berapa lama sebelum keberangkatan saya harus tiba di stasiun/bandara/terminal?",
-      "response": "Waktu kedatangan yang disarankan sebelum keberangkatan:\n\n1. Untuk transportasi kereta api:\n   - Keberangkatan domestik: minimal 30-45 menit sebelum jadwal\n   - Untuk stasiun besar di jam sibuk: 45-60 menit sebelum jadwal\n\n2. Untuk penerbangan:\n   - Domestik tanpa bagasi: 1-1.5 jam sebelum keberangkatan\n   - Domestik dengan bagasi: 1.5-2 jam sebelum keberangkatan\n   - Internasional: 3 jam sebelum keberangkatan\n\n3. Untuk transportasi bus/kapal:\n   - Minimal 30 menit sebelum jadwal keberangkatan\n\nFaktor tambahan yang perlu dipertimbangkan:\n- Tambahkan waktu ekstra saat musim liburan atau jam sibuk\n- Pertimbangkan waktu perjalanan ke terminal dan kemungkinan kemacetan\n- Check-in online dapat menghemat waktu Anda di lokasi keberangkatan"
-    },
-    {
-      "instruction": "Bagaimana jika saya ketinggalan jadwal keberangkatan?",
-      "response": "Jika Anda ketinggalan jadwal keberangkatan, berikut langkah-langkah yang dapat dilakukan:\n\n1. Segera hubungi customer service kami di 0800-123-4567 atau petugas di lokasi keberangkatan\n\n2. Untuk tiket dengan kebijakan fleksibel:\n   - Kemungkinan bisa dialihkan ke jadwal berikutnya dengan biaya tambahan\n   - Biaya reschedule biasanya 10-30% dari harga tiket asli\n\n3. Untuk tiket promo atau non-refundable:\n   - Umumnya tidak dapat dikembalikan atau dijadwal ulang\n   - Namun dalam kasus tertentu (seperti alasan medis dengan bukti), kami dapat mempertimbangkan kebijaksanaan khusus\n\n4. Opsi alternatif:\n   - Pembelian tiket last minute untuk jadwal berikutnya (jika tersedia)\n   - Konsultasikan dengan petugas untuk solusi transportasi alternatif\n\nUntuk menghindari situasi ini, kami menyarankan menggunakan fitur pengingat di aplikasi kami dan tiba lebih awal dari waktu yang disarankan."
-    },
-    {
-      "instruction": "Apakah tiket bisa ditransfer ke orang lain?",
-      "response": "Kebijakan transfer tiket ke orang lain:\n\n1. Aturan umum:\n   - Sebagian besar tiket tidak dapat ditransfer ke orang lain karena alasan keamanan dan administratif\n   - Tiket terikat dengan identitas penumpang yang tercantum pada saat pemesanan\n\n2. Opsi yang tersedia:\n   - Pembatalan tiket (dengan penalti sesuai ketentuan) dan pemesanan baru untuk orang lain\n   - Untuk tiket fleksibel premium, beberapa pengecualian mungkin berlaku dengan biaya administrasi tinggi\n\n3. Kasus khusus:\n   - Untuk grup korporat dengan kontrak khusus, penggantian nama penumpang mungkin diizinkan dengan pemberitahuan minimal 72 jam\n   - Alasan medis dengan bukti resmi dapat dipertimbangkan untuk pengecualian kebijakan\n\nUntuk informasi lebih detail sesuai jenis tiket Anda, silakan hubungi customer service kami di 0800-123-4567."
-    },
-    {
-      "instruction": "Bagaimana cara memeriksa status pesanan tiket saya?",
-      "response": "Untuk memeriksa status pesanan tiket Anda, silakan ikuti salah satu cara berikut:\n\n1. Melalui website:\n   - Kunjungi www.example.com/status\n   - Masukkan nomor booking dan nama belakang penumpang\n   - Klik 'Cek Status' untuk melihat informasi terkini\n\n2. Melalui aplikasi mobile:\n   - Login ke akun Anda\n   - Buka menu 'Pesanan Saya'\n   - Pilih pesanan yang ingin diperiksa statusnya\n\n3. Melalui email:\n   - Buka email konfirmasi pemesanan\n   - Klik tautan 'Cek Status Pesanan' yang tersedia\n\n4. Hubungi customer service:\n   - Telepon 0800-123-4567\n   - Sebutkan nomor booking dan identitas Anda untuk verifikasi\n\nStatus pesanan biasanya meliputi: Menunggu Pembayaran, Pembayaran Diterima, Tiket Terbit, Dibatalkan, atau Selesai."
-    }
-  ]
+  {
+    "instruction": "Apa itu Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki (TIM) adalah pusat kebudayaan dan seni terbesar di Jakarta yang terletak di Cikini, Jakarta Pusat. TIM menjadi landmark penting untuk pertunjukan seni, pameran, dan berbagai acara budaya. Tempat ini memiliki berbagai fasilitas seperti gedung pertunjukan, galeri seni, planetarium, dan taman yang asri untuk bersantai."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki berlokasi di Jalan Cikini Raya No. 73, Cikini, Menteng, Jakarta Pusat 10330. Lokasinya sangat strategis dan mudah diakses dari berbagai penjuru Jakarta."
+  },
+  {
+    "instruction": "Jam buka TIM berapa?",
+    "response": "Taman Ismail Marzuki buka setiap hari dari pukul 06.00 - 22.00 WIB. Namun, jam operasional gedung pertunjukan dan fasilitas khusus lainnya dapat berbeda tergantung pada jadwal acara yang sedang berlangsung."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk TIM?",
+    "response": "Tiket masuk ke area taman TIM gratis untuk umum. Namun, untuk pertunjukan khusus, pameran, atau fasilitas tertentu seperti planetarium, ada tarif tersendiri yang bervariasi. Untuk informasi harga tiket event khusus dan pemesanan, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Fasilitas apa saja yang ada di TIM?",
+    "response": "Fasilitas di TIM meliputi: Gedung Pertunjukan Besar, Teater Kecil, Galeri Cipta I, II, dan III, Planetarium Jakarta, Graha Bhakti Budaya, Institut Kesenian Jakarta (IKJ), taman terbuka, food court, mushola, toilet, dan area parkir. Semua fasilitas ini mendukung berbagai kegiatan seni dan budaya."
+  },
+  {
+    "instruction": "Bagaimana cara ke TIM dengan transportasi umum?",
+    "response": "Untuk menuju TIM dengan transportasi umum, Anda bisa: 1) Naik TransJakarta dan turun di Halte Cikini, lalu jalan kaki sekitar 5 menit, 2) Naik KRL dan turun di Stasiun Cikini, lalu jalan kaki sekitar 10 menit, 3) Naik bus reguler jurusan Cikini, 4) Menggunakan ojek online atau taksi online langsung ke lokasi."
+  },
+  {
+    "instruction": "Apakah ada tempat parkir di TIM?",
+    "response": "Ya, TIM menyediakan area parkir untuk kendaraan roda dua dan roda empat. Tarif parkir motor sekitar Rp 3.000 dan mobil sekitar Rp 5.000 per jam. Kapasitas parkir cukup luas namun bisa penuh saat ada acara besar."
+  },
+  {
+    "instruction": "Apa itu Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap adalah destinasi wisata edukasi bertema pertanian dan alam yang berlokasi di Jakarta Timur. Tempat ini menawarkan pengalaman belajar tentang pertanian, peternakan, dan konservasi lingkungan dengan suasana yang asri dan sejuk."
+  },
+  {
+    "instruction": "Dimana alamat Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap terletak di Jalan Raya Cilangkap No. 1, Cilangkap, Cipayung, Jakarta Timur 13870. Lokasinya berada di area yang masih asri dengan udara yang sejuk."
+  },
+  {
+    "instruction": "Jam operasional Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap buka setiap hari dari pukul 08.00 - 17.00 WIB. Waktu terbaik untuk berkunjung adalah pagi hari untuk menikmati udara segar dan menghindari cuaca yang terlalu panas."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk Taman Agrowisata Cilangkap?",
+    "response": "Harga tiket masuk Taman Agrowisata Cilangkap untuk dewasa Rp 15.000 dan anak-anak Rp 10.000. Untuk pemesanan tiket dan paket wisata grup, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Aktivitas apa yang bisa dilakukan di Taman Agrowisata Cilangkap?",
+    "response": "Di Taman Agrowisata Cilangkap, Anda bisa: melihat berbagai tanaman dan sayuran organik, belajar teknik pertanian modern, berinteraksi dengan hewan ternak, fishing di kolam pemancingan, outbound dan team building, piknik keluarga, fotografi dengan latar belakang alam, dan mengikuti workshop pertanian."
+  },
+  {
+    "instruction": "Apakah Taman Agrowisata Cilangkap cocok untuk anak-anak?",
+    "response": "Sangat cocok! Taman Agrowisata Cilangkap adalah destinasi edukasi yang ideal untuk anak-anak. Mereka bisa belajar tentang pertanian, berinteraksi dengan hewan, bermain di area playground, dan mengikuti berbagai aktivitas edukatif yang menyenangkan."
+  },
+  {
+    "instruction": "Apa itu J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel adalah wahana bianglala raksasa yang berlokasi di Jakarta, menawarkan pemandangan panorama kota dari ketinggian. Ferris wheel ini menjadi salah satu ikon wisata modern Jakarta dengan teknologi canggih dan desain yang menarik."
+  },
+  {
+    "instruction": "Dimana lokasi J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel terletak di kawasan wisata terpadu Jakarta. Lokasinya strategis dan mudah diakses dengan berbagai moda transportasi. Untuk informasi lokasi lengkap, silakan cek website resmi kami."
+  },
+  {
+    "instruction": "Jam buka J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel beroperasi setiap hari dari pukul 10.00 - 22.00 WIB. Waktu terbaik untuk naik adalah sore menjelang malam untuk menikmati sunset dan pemandangan lampu kota yang indah."
+  },
+  {
+    "instruction": "Berapa harga tiket J-Sky Ferris Wheel?",
+    "response": "Harga tiket J-Sky Ferris Wheel bervariasi tergantung waktu dan paket yang dipilih. Untuk informasi harga terkini dan pemesanan tiket, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Berapa lama durasi naik J-Sky Ferris Wheel?",
+    "response": "Durasi satu putaran J-Sky Ferris Wheel adalah sekitar 15-20 menit. Waktu ini cukup untuk menikmati pemandangan 360 derajat kota Jakarta dari ketinggian dan mengambil foto-foto yang indah."
+  },
+  {
+    "instruction": "Apakah J-Sky Ferris Wheel aman untuk anak-anak?",
+    "response": "Ya, J-Sky Ferris Wheel sangat aman untuk anak-anak. Wahana ini dilengkapi dengan sistem keamanan standar internasional, gondola yang nyaman dan aman, serta operator yang berpengalaman. Anak-anak harus didampingi orang dewasa."
+  },
+  {
+    "instruction": "Apa itu Cibugary Farm?",
+    "response": "Cibugary Farm adalah agrowisata modern yang menggabungkan konsep pertanian, peternakan, dan rekreasi keluarga. Tempat ini menawarkan pengalaman langsung bercocok tanam, berinteraksi dengan hewan ternak, dan berbagai aktivitas outdoor yang menyenangkan."
+  },
+  {
+    "instruction": "Dimana alamat Cibugary Farm?",
+    "response": "Cibugary Farm berlokasi di kawasan Jakarta dengan suasana pedesaan yang asri. Untuk informasi alamat lengkap dan petunjuk arah, silakan cek website resmi kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Jam buka Cibugary Farm?",
+    "response": "Cibugary Farm buka setiap hari dari pukul 08.00 - 17.00 WIB. Kami merekomendasikan datang pagi hari untuk menikmati udara segar dan cuaca yang lebih sejuk."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk Cibugary Farm?",
+    "response": "Harga tiket masuk Cibugary Farm bervariasi untuk dewasa dan anak-anak. Tersedia juga paket keluarga dan paket grup dengan harga khusus. Untuk informasi harga terkini dan pemesanan, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Aktivitas apa yang bisa dilakukan di Cibugary Farm?",
+    "response": "Di Cibugary Farm, Anda bisa: bercocok tanam sayuran organik, memberi makan hewan ternak (kambing, sapi, ayam), horseback riding, ATV adventure, camping, fishing, outbound team building, workshop pertanian, dan menikmati produk segar langsung dari kebun."
+  },
+  {
+    "instruction": "Apakah bisa camping di Cibugary Farm?",
+    "response": "Ya, Cibugary Farm menyediakan fasilitas camping dengan area yang telah disiapkan. Tersedia paket camping yang sudah termasuk tenda, sleeping bag, dan konsumsi. Untuk reservasi camping, silakan hubungi kami melalui halaman tiket reservation di website."
+  },
+  {
+    "instruction": "Bagaimana cara pesan tiket online?",
+    "response": "Untuk memesan tiket online, silakan kunjungi website resmi kami dan pilih menu 'Tiket Reservation'. Di sana Anda bisa memilih destinasi, tanggal kunjungan, jumlah tiket, dan melakukan pembayaran dengan berbagai metode yang tersedia."
+  },
+  {
+    "instruction": "Apakah ada paket wisata grup?",
+    "response": "Ya, kami menyediakan paket wisata khusus untuk grup dengan harga yang lebih terjangkau. Paket grup biasanya minimal 20 orang dan termasuk transportasi, tiket masuk, makan, dan guide. Untuk informasi dan pemesanan paket grup, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara ke TIM dari Monas?",
+    "response": "Dari Monas ke TIM, Anda bisa: 1) Naik TransJakarta dari Halte Monas ke Halte Cikini (sekitar 15 menit), 2) Naik taksi atau ojek online (sekitar 10-15 menit), 3) Jalan kaki sekitar 20-25 menit melalui Jalan Medan Merdeka Selatan - Jalan Pejambon - Jalan Cikini Raya."
+  },
+  {
+    "instruction": "Apakah di TIM ada acara hari ini?",
+    "response": "Untuk informasi acara terkini di TIM, silakan cek website resmi kami atau media sosial TIM. Jadwal acara, pertunjukan, dan pameran selalu diupdate secara berkala. Anda juga bisa menghubungi customer service untuk informasi lebih detail."
+  },
+  {
+    "instruction": "Bolehkah membawa makanan dari luar ke TIM?",
+    "response": "Untuk area taman TIM, diperbolehkan membawa makanan ringan dan minuman. Namun, untuk area gedung pertunjukan dan fasilitas khusus, ada aturan tersendiri. Sebaiknya konsultasikan dengan petugas di lokasi atau hubungi customer service untuk memastikan."
+  },
+  {
+    "instruction": "Apakah ada mushola di TIM?",
+    "response": "Ya, TIM menyediakan mushola untuk pengunjung yang ingin beribadah. Mushola terletak di beberapa titik strategis dalam area TIM dan terbuka untuk umum dengan fasilitas yang bersih dan nyaman."
+  },
+  {
+    "instruction": "Bagaimana cara ke Taman Agrowisata Cilangkap dari Stasiun Gambir?",
+    "response": "Dari Stasiun Gambir ke Taman Agrowisata Cilangkap: 1) Naik KRL dari Gambir ke Stasiun Cilangkap (sekitar 45 menit), lalu lanjut naik ojek online, 2) Naik TransJakarta dari Gambir ke Terminal Cilangkap, lalu lanjut angkot atau ojek online, 3) Langsung naik taksi online atau sewa mobil (sekitar 1 jam tergantung traffic)."
+  },
+  {
+    "instruction": "Apakah ada toilet di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap menyediakan fasilitas toilet yang bersih dan terawat di beberapa titik lokasi. Toilet tersedia untuk pria, wanita, dan difabel dengan fasilitas yang memadai."
+  },
+  {
+    "instruction": "Bolehkah membawa hewan peliharaan ke Taman Agrowisata Cilangkap?",
+    "response": "Kebijakan mengenai hewan peliharaan di Taman Agrowisata Cilangkap mungkin berbeda-beda. Sebaiknya hubungi customer service terlebih dahulu untuk memastikan aturan terkini mengenai membawa hewan peliharaan ke dalam area wisata."
+  },
+  {
+    "instruction": "Apakah ada area bermain anak di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap memiliki area bermain khusus untuk anak-anak yang aman dan menyenangkan. Area ini dilengkapi dengan permainan edukatif yang mendukung pembelajaran tentang alam dan pertanian."
+  },
+  {
+    "instruction": "Kapan waktu terbaik mengunjungi J-Sky Ferris Wheel?",
+    "response": "Waktu terbaik mengunjungi J-Sky Ferris Wheel adalah: 1) Sore hari (16.00-18.00) untuk menikmati sunset, 2) Malam hari (19.00-21.00) untuk pemandangan lampu kota yang indah, 3) Hindari weekend dan hari libur jika ingin menghindari antrian panjang."
+  },
+  {
+    "instruction": "Apakah J-Sky Ferris Wheel buka saat hujan?",
+    "response": "J-Sky Ferris Wheel mungkin tutup sementara saat hujan deras atau cuaca buruk untuk keamanan pengunjung. Keputusan operasional tergantung pada kondisi cuaca dan tingkat keamanan. Sebaiknya cek kondisi cuaca sebelum berkunjung."
+  },
+  {
+    "instruction": "Berapa tinggi J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel memiliki ketinggian yang memberikan pemandangan spektakuler kota Jakarta dari atas. Untuk informasi spesifikasi teknis yang detail, silakan cek website resmi kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Apakah ada fasilitas foto profesional di J-Sky Ferris Wheel?",
+    "response": "Ya, J-Sky Ferris Wheel biasanya menyediakan jasa foto profesional untuk mengabadikan momen spesial Anda. Informasi detail mengenai layanan foto dan harganya bisa Anda dapatkan di lokasi atau melalui customer service."
+  },
+  {
+    "instruction": "Bagaimana cara ke Cibugary Farm dengan kendaraan pribadi?",
+    "response": "Untuk menuju Cibugary Farm dengan kendaraan pribadi, Anda bisa menggunakan aplikasi navigasi GPS dengan memasukkan alamat Cibugary Farm. Tersedia area parkir yang luas untuk kendaraan roda dua dan roda empat. Untuk rute terbaik, silakan cek di website kami."
+  },
+  {
+    "instruction": "Apakah ada paket makan di Cibugary Farm?",
+    "response": "Ya, Cibugary Farm menyediakan paket makan dengan menu makanan segar dari hasil kebun sendiri. Tersedia pilihan menu tradisional dan modern dengan harga yang terjangkau. Untuk informasi menu dan harga, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Bolehkah memancing di Cibugary Farm?",
+    "response": "Ya, Cibugary Farm menyediakan fasilitas memancing di kolam yang telah disiapkan. Tersedia peralatan pancing dan umpan dengan tarif perjam. Ikan hasil pancingan bisa dibawa pulang atau dimasak di tempat dengan biaya tambahan."
+  },
+  {
+    "instruction": "Apakah ada penginapan di Cibugary Farm?",
+    "response": "Cibugary Farm menyediakan beberapa pilihan penginapan seperti villa, cottage, dan area camping. Untuk informasi ketersediaan kamar dan harga penginapan, silakan kunjungi halaman tiket reservation di website kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Bagaimana cara membatalkan pesanan tiket?",
+    "response": "Untuk membatalkan pesanan tiket, silakan: 1) Login ke akun Anda di website, 2) Pilih menu 'Pesanan Saya', 3) Pilih pesanan yang ingin dibatalkan, 4) Klik 'Batalkan Pesanan' dan ikuti instruksi. Kebijakan pembatalan dan refund mengikuti syarat dan ketentuan yang berlaku."
+  },
+  {
+    "instruction": "Berapa lama proses refund tiket?",
+    "response": "Proses refund tiket biasanya membutuhkan waktu 7-14 hari kerja setelah pembatalan disetujui. Waktu pengkreditan ke rekening tergantung pada metode pembayaran yang digunakan. Untuk informasi lebih detail, silakan hubungi customer service kami."
+  },
+  {
+    "instruction": "Apakah bisa reschedule tiket?",
+    "response": "Ya, Anda bisa mengubah jadwal kunjungan dengan mengakses akun Anda di website, pilih 'Pesanan Saya', dan pilih opsi 'Ubah Jadwal'. Perubahan jadwal tergantung ketersediaan dan mungkin dikenakan biaya tambahan sesuai kebijakan yang berlaku."
+  },
+  {
+    "instruction": "Metode pembayaran apa saja yang tersedia?",
+    "response": "Kami menerima berbagai metode pembayaran seperti: transfer bank, kartu kredit/debit, e-wallet (GoPay, OVO, Dana), dan virtual account. Untuk informasi lengkap metode pembayaran, silakan cek saat melakukan pemesanan di halaman tiket reservation."
+  },
+  {
+    "instruction": "Apakah ada diskon untuk group booking?",
+    "response": "Ya, kami menyediakan diskon khusus untuk group booking minimal 20 orang. Besaran diskon bervariasi tergantung destinasi dan jumlah peserta. Untuk informasi diskon grup dan pemesanan, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara menghubungi customer service?",
+    "response": "Anda bisa menghubungi customer service kami melalui: 1) WhatsApp di nomor yang tertera di website, 2) Email ke customer service, 3) Live chat di website, 4) Telepon ke nomor hotline yang tersedia. Tim kami siap membantu Anda setiap hari dari pukul 08.00 - 20.00 WIB."
+  },
+  {
+    "instruction": "Apakah tersedia guide wisata?",
+    "response": "Ya, kami menyediakan layanan guide wisata profesional untuk memberikan informasi lengkap tentang destinasi wisata. Layanan guide bisa dipesan bersamaan dengan tiket masuk. Untuk informasi harga dan pemesanan guide, silakan kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Fasilitas apa yang tersedia untuk difabel?",
+    "response": "Semua destinasi wisata kami menyediakan fasilitas untuk difabel seperti: akses kursi roda, toilet khusus difabel, jalur khusus, dan bantuan petugas jika diperlukan. Untuk informasi detail fasilitas difabel di setiap lokasi, silakan hubungi customer service kami."
+  },
+  {
+    "instruction": "Apakah boleh membawa stroller ke tempat wisata?",
+    "response": "Ya, stroller atau kereta bayi diperbolehkan di semua destinasi wisata kami. Tersedia jalur khusus yang ramah stroller dan area parkir stroller di beberapa titik. Namun, untuk wahana tertentu seperti J-Sky Ferris Wheel, mungkin ada keterbatasan tertentu."
+  },
+  {
+    "instruction": "Apa saja yang tidak boleh dibawa ke tempat wisata?",
+    "response": "Barang yang tidak boleh dibawa meliputi: senjata tajam, bahan kimia berbahaya, minuman beralkohol, narkoba, sound system bervolume tinggi, dan barang lain yang dapat mengganggu kenyamanan pengunjung. Untuk daftar lengkap, silakan cek syarat dan ketentuan di website kami."
+  },
+  {
+    "instruction": "Apakah ada promo khusus hari ini?",
+    "response": "Untuk informasi promo dan diskon terkini, silakan cek website resmi kami atau media sosial. Kami sering memberikan promo spesial untuk hari libur, weekend, atau event tertentu. Jangan lupa subscribe newsletter untuk mendapat update promo terbaru."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan tiket gratis?",
+    "response": "Tiket gratis bisa didapatkan melalui: 1) Kuis dan giveaway di media sosial, 2) Program loyalitas pelanggan, 3) Promo khusus untuk member, 4) Kerjasama dengan partner tertentu. Follow media sosial kami untuk update promo dan kesempatan mendapatkan tiket gratis."
+  },
+  {
+    "instruction": "Apakah ada program membership?",
+    "response": "Ya, kami memiliki program membership dengan berbagai keuntungan seperti: diskon tiket, prioritas booking, poin reward, promo eksklusif, dan fasilitas khusus member. Untuk informasi lengkap dan cara mendaftar membership, silakan cek di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara menggunakan voucher?",
+    "response": "Untuk menggunakan voucher, masukkan kode voucher saat melakukan pemesanan di halaman checkout. Pastikan voucher masih berlaku dan sesuai dengan syarat dan ketentuan yang berlaku. Jika ada kendala menggunakan voucher, hubungi customer service kami."
+  },
+  {
+    "instruction": "Apakah tiket bisa digunakan di hari lain?",
+    "response": "Tiket yang sudah dipesan untuk tanggal tertentu hanya berlaku untuk tanggal tersebut. Jika ingin mengubah tanggal kunjungan, Anda perlu melakukan reschedule melalui akun Anda dengan kemungkinan biaya tambahan. Cek kebijakan reschedule di syarat dan ketentuan."
+  },
+  {
+    "instruction": "Apa yang harus dilakukan jika lupa password akun?",
+    "response": "Jika lupa password, klik 'Lupa Password' di halaman login, masukkan email yang terdaftar, dan ikuti instruksi yang dikirim ke email Anda untuk reset password. Jika masih ada kendala, hubungi customer service untuk bantuan lebih lanjut."
+  },
+  {
+    "instruction": "Bagaimana cara update profil akun?",
+    "response": "Untuk update profil akun, login ke akun Anda di website, pilih menu 'Profil' atau 'Akun Saya', lalu edit informasi yang ingin diubah seperti nama, nomor telepon, atau alamat email. Jangan lupa klik 'Simpan' setelah melakukan perubahan."
+  },
+  {
+    "instruction": "Apakah ada batasan usia untuk wahana tertentu?",
+    "response": "Ya, beberapa wahana memiliki batasan usia untuk keamanan. J-Sky Ferris Wheel misalnya, anak di bawah 12 tahun harus didampingi dewasa. Untuk informasi detail batasan usia di setiap wahana, silakan cek di website kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Bagaimana kondisi cuaca mempengaruhi operasional tempat wisata?",
+    "response": "Operasional tempat wisata bisa terpengaruh cuaca ekstrem seperti hujan deras, badai, atau angin kencang. Untuk keamanan pengunjung, beberapa wahana mungkin ditutup sementara. Sebaiknya cek kondisi cuaca dan konfirmasi operasional sebelum berkunjung."
+  },
+  {
+    "instruction": "Apakah ada layanan shuttle bus?",
+    "response": "Untuk beberapa destinasi yang lokasinya agak jauh, kami menyediakan layanan shuttle bus dari titik-titik tertentu. Informasi jadwal dan titik keberangkatan shuttle bus bisa dilihat di website atau ditanyakan saat melakukan pemesanan tiket."
+  },
+  {
+    "instruction": "Bagaimana cara memberikan review atau feedback?",
+    "response": "Anda bisa memberikan review atau feedback melalui: 1) Website resmi kami di bagian review, 2) Media sosial dengan mention akun resmi, 3) Email ke customer service, 4) Mengisi form feedback yang tersedia di lokasi wisata. Feedback Anda sangat berharga untuk meningkatkan layanan kami."
+  },
+  {
+    "instruction": "Apakah ada event khusus di akhir pekan?",
+    "response": "Ya, kami sering mengadakan event khusus di akhir pekan seperti pertunjukan musik, workshop, festival, atau aktivitas keluarga. Untuk informasi event terkini, silakan cek website resmi kami atau follow media sosial untuk update event weekend."
+  },
+  {
+    "instruction": "Bagaimana cara bergabung dengan program afiliasi?",
+    "response": "Untuk bergabung program afiliasi, silakan daftar melalui halaman khusus afiliasi di website kami. Anda akan mendapat komisi untuk setiap penjualan tiket melalui link referral Anda. Untuk informasi detail syarat dan ketentuan afiliasi, hubungi tim partnership kami."
+  },
+  {
+    "instruction": "Apakah tersedia layanan catering untuk acara grup?",
+    "response": "Ya, kami menyediakan layanan catering untuk acara grup dengan berbagai pilihan menu. Layanan catering bisa dikombinasikan dengan paket wisata grup. Untuk informasi menu dan harga catering, silakan kunjungi halaman tiket reservation di website kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Apakah ada wifi gratis di tempat wisata?",
+    "response": "Ya, sebagian besar tempat wisata kami menyediakan wifi gratis untuk pengunjung. Namun, kecepatan dan coverage area wifi mungkin berbeda-beda di setiap lokasi. Untuk informasi detail jaringan wifi di setiap destinasi, silakan tanyakan kepada petugas di lokasi."
+  },
+  {
+    "instruction": "Bolehkah melakukan sesi foto pre-wedding di tempat wisata?",
+    "response": "Untuk sesi foto pre-wedding atau foto komersial, diperlukan izin khusus dan mungkin dikenakan biaya tambahan. Setiap lokasi memiliki kebijakan yang berbeda. Silakan hubungi customer service minimal 7 hari sebelum rencana pemotretan untuk mengurus izin dan informasi biaya."
+  },
+  {
+    "instruction": "Apakah ada tempat istirahat untuk lansia?",
+    "response": "Ya, semua tempat wisata kami menyediakan area istirahat yang nyaman dengan bangku dan gazebo. Khusus untuk lansia, tersedia tempat duduk yang strategis dengan akses yang mudah dan tidak terlalu jauh dari fasilitas utama."
+  },
+  {
+    "instruction": "Bagaimana cara melaporkan kehilangan barang di tempat wisata?",
+    "response": "Jika kehilangan barang di tempat wisata, segera laporkan ke petugas security atau customer service di lokasi. Kami memiliki lost and found center di setiap destinasi. Anda juga bisa menghubungi customer service pusat untuk bantuan pencarian barang hilang."
+  },
+  {
+    "instruction": "Apakah ada area khusus untuk merokok?",
+    "response": "Ya, tersedia area khusus untuk merokok yang telah ditentukan di setiap lokasi wisata. Merokok di luar area yang telah ditentukan tidak diperbolehkan untuk kenyamanan pengunjung lain dan menjaga kebersihan lingkungan."
+  },
+  {
+    "instruction": "Bagaimana cara mengajukan komplain?",
+    "response": "Untuk mengajukan komplain, Anda bisa: 1) Langsung ke customer service di lokasi, 2) Email ke alamat komplain yang tertera di website, 3) Telepon ke hotline customer service, 4) Mengisi form komplain online di website. Semua komplain akan ditindaklanjuti maksimal 2x24 jam."
+  },
+  {
+    "instruction": "Apakah ada program magang atau volunteer?",
+    "response": "Ya, kami membuka program magang untuk mahasiswa dan volunteer untuk berbagai kegiatan. Program ini biasanya dibuka di periode tertentu. Untuk informasi pendaftaran magang atau volunteer, silakan hubungi tim HR melalui email yang tertera di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara menjadi vendor atau supplier?",
+    "response": "Untuk menjadi vendor atau supplier, silakan kirim proposal kerjasama ke tim procurement kami melalui email yang tertera di website. Sertakan profil perusahaan, produk/jasa yang ditawarkan, dan dokumen pendukung lainnya. Tim kami akan mengevaluasi proposal tersebut."
+  },
+  {
+    "instruction": "Apakah ada program CSR atau community engagement?",
+    "response": "Ya, kami memiliki program CSR yang fokus pada edukasi lingkungan, pemberdayaan masyarakat sekitar, dan pelestarian budaya. Jika Anda tertarik berpartisipasi atau bermitra dalam program CSR, silakan hubungi tim CSR melalui email yang tertera di website."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan sertifikat kunjungan untuk edukasi?",
+    "response": "Untuk kunjungan edukasi dari sekolah atau institusi pendidikan, kami bisa menyediakan sertifikat kunjungan. Silakan ajukan permohonan sertifikat saat melakukan booking untuk grup edukasi atau hubungi customer service untuk informasi lebih lanjut."
+  },
+  {
+    "instruction": "Apakah ada program student discount?",
+    "response": "Ya, kami menyediakan diskon khusus untuk pelajar dan mahasiswa dengan menunjukkan kartu pelajar/mahasiswa yang masih berlaku. Untuk informasi besaran diskon dan syarat penggunaannya, silakan cek saat melakukan pemesanan di halaman tiket reservation."
+  },
+  {
+    "instruction": "Bagaimana cara booking untuk acara corporate?",
+    "response": "Untuk booking acara corporate seperti team building, meeting, atau company trip, silakan hubungi tim corporate sales kami. Kami menyediakan paket khusus corporate dengan fasilitas lengkap. Untuk informasi dan pemesanan, kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Apakah ada layanan penyewaan equipment?",
+    "response": "Ya, di beberapa lokasi kami menyediakan penyewaan equipment seperti sepeda, peralatan outbound, alat pancing, dan lain-lain. Ketersediaan equipment berbeda di setiap lokasi. Untuk informasi detail dan reservasi equipment, silakan hubungi customer service."
+  },
+  {
+    "instruction": "Bagaimana cara mengikuti social media giveaway?",
+    "response": "Untuk mengikuti giveaway di media sosial, follow akun resmi kami di Instagram, Facebook, dan Twitter. Biasanya syarat giveaway adalah follow, like, comment, dan share post tertentu. Pantau terus media sosial kami untuk info giveaway terbaru."
+  },
+  {
+    "instruction": "Apakah ada program loyalty points?",
+    "response": "Ya, kami memiliki program loyalty points untuk member. Setiap pembelian tiket akan mendapatkan poin yang bisa ditukarkan dengan tiket gratis, diskon, atau merchandise. Untuk informasi cara mengumpulkan dan menukarkan poin, silakan cek di akun member Anda."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan invoice untuk reimbursement?",
+    "response": "Invoice untuk reimbursement bisa didownload dari akun Anda setelah melakukan pembayaran. Jika memerlukan invoice dengan kop perusahaan tertentu, silakan hubungi customer service dengan menyertakan detail perusahaan dan nomor NPWP."
+  },
+  {
+    "instruction": "Apakah ada program referral?",
+    "response": "Ya, kami memiliki program referral dimana Anda bisa mendapatkan reward jika mengajak teman untuk berkunjung. Setiap referral yang berhasil akan mendapat komisi atau diskon. Untuk informasi detail program referral, silakan cek di website kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Bagaimana cara melakukan kerjasama media?",
+    "response": "Untuk kerjasama media seperti press trip, media partnership, atau liputan khusus, silakan hubungi tim Public Relations kami melalui email yang tertera di website. Sertakan proposal kerjasama dan profil media yang Anda wakili."
+  },
+  {
+    "instruction": "Apakah ada program early bird discount?",
+    "response": "Ya, kami sering memberikan early bird discount untuk pemesanan tiket jauh-jauh hari, terutama untuk event atau festival khusus. Untuk informasi early bird discount yang sedang berlangsung, silakan cek website kami atau subscribe newsletter."
+  },
+  {
+    "instruction": "Bagaimana cara menggunakan gift voucher?",
+    "response": "Gift voucher bisa digunakan saat melakukan pemesanan dengan memasukkan kode voucher di halaman checkout. Pastikan voucher masih berlaku dan sesuai dengan destinasi yang dipilih. Jika ada kendala menggunakan gift voucher, hubungi customer service kami."
+  },
+  {
+    "instruction": "Apakah bisa melakukan pembayaran di tempat?",
+    "response": "Untuk beberapa destinasi, kami masih menerima pembayaran di tempat. Namun, untuk memastikan ketersediaan tiket dan mendapatkan harga terbaik, kami merekomendasikan untuk melakukan pemesanan online terlebih dahulu melalui halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara mengecek status pemesanan?",
+    "response": "Untuk mengecek status pemesanan, login ke akun Anda di website dan pilih menu 'Pesanan Saya'. Di sana Anda bisa melihat semua pesanan, status pembayaran, dan detail lainnya. Anda juga akan mendapat notifikasi email untuk setiap perubahan status pesanan."
+  },
+  {
+    "instruction": "Apakah ada program untuk komunitas?",
+    "response": "Ya, kami memiliki program khusus untuk komunitas dengan paket harga spesial dan fasilitas tambahan. Program ini terbuka untuk berbagai jenis komunitas seperti fotografer, pecinta alam, atau hobby group. Untuk informasi detail, hubungi customer service kami."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan merchandise resmi?",
+    "response": "Merchandise resmi tersedia untuk pembelian di lokasi wisata atau melalui online shop resmi kami. Produk merchandise meliputi kaos, topi, gantungan kunci, dan souvenir lainnya. Untuk katalog lengkap merchandise, silakan cek di website kami."
+  },
+  {
+    "instruction": "Apakah ada program seasonal discount?",
+    "response": "Ya, kami memberikan seasonal discount pada musim-musim tertentu seperti liburan sekolah, hari raya, atau anniversary. Untuk informasi seasonal discount yang sedang berlangsung, silakan cek website kami atau follow media sosial untuk update terbaru."
+  },
+  {
+    "instruction": "Bagaimana cara booking untuk acara ulang tahun?",
+    "response": "Untuk booking acara ulang tahun, kami menyediakan paket khusus yang sudah termasuk dekorasi, kue, dan fasilitas lainnya. Paket bisa disesuaikan dengan budget dan kebutuhan. Untuk informasi dan pemesanan paket ulang tahun, kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Apakah ada program training untuk guide?",
+    "response": "Ya, kami memiliki program training untuk guide wisata yang ingin bergabung dengan tim kami. Training meliputi product knowledge, customer service, dan teknik guiding. Untuk informasi jadwal training dan persyaratan, silakan hubungi tim HR melalui email yang tertera di website."
+  },
+  {
+    "instruction": "Bagaimana cara melakukan pembayaran dengan cicilan?",
+    "response": "Untuk pembayaran dengan cicilan, kami bekerjasama dengan beberapa platform fintech dan bank. Pilihan cicilan tersedia saat checkout dengan berbagai tenor. Untuk informasi detail dan syarat cicilan, silakan cek saat melakukan pemesanan di halaman tiket reservation."
+  },
+  {
+    "instruction": "Apakah ada program untuk penyandang disabilitas?",
+    "response": "Ya, kami memiliki program khusus untuk penyandang disabilitas dengan fasilitas yang lebih lengkap dan harga spesial. Program ini meliputi pendampingan khusus, akses prioritas, dan fasilitas yang disesuaikan dengan kebutuhan. Untuk informasi detail, hubungi customer service kami."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan annual pass?",
+    "response": "Annual pass memberikan akses unlimited ke semua destinasi wisata kami selama satu tahun dengan berbagai benefit eksklusif. Untuk informasi harga annual pass dan cara pembeliannya, silakan kunjungi halaman tiket reservation di website kami atau hubungi customer service."
+  },
+  {
+    "instruction": "Apakah ada program untuk virtual tour?",
+    "response": "Ya, kami menyediakan program virtual tour untuk sekolah atau grup yang tidak bisa datang langsung. Virtual tour dilakukan melalui video call dengan guide yang akan menjelaskan setiap destinasi secara detail. Untuk informasi dan booking virtual tour, hubungi customer service kami."
+  },
+  {
+    "instruction": "Bagaimana cara mengikuti event fotografi?",
+    "response": "Kami sering mengadakan event fotografi seperti photo walk, workshop, atau kompetisi. Untuk mengikuti event fotografi, follow media sosial kami untuk update jadwal dan cara pendaftaran. Biasanya event fotografi memiliki kuota terbatas jadi daftar segera."
+  },
+  {
+    "instruction": "Apakah ada program untuk UMKM?",
+    "response": "Ya, kami memiliki program kerjasama dengan UMKM lokal untuk menjual produk di area wisata atau menjadi supplier. Program ini bertujuan memberdayakan ekonomi lokal. Untuk informasi kerjasama UMKM, silakan hubungi tim partnership kami melalui email yang tertera di website."
+  },
+  {
+    "instruction": "Bagaimana cara melakukan booking untuk rombongan sekolah?",
+    "response": "Untuk booking rombongan sekolah, kami menyediakan paket edukasi khusus dengan guide profesional dan materi pembelajaran. Paket termasuk transportasi, tiket masuk, makan, dan certificate. Untuk informasi dan pemesanan paket sekolah, kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Apakah ada program sustainability atau green tourism?",
+    "response": "Ya, kami berkomitmen pada program sustainability dan green tourism melalui berbagai inisiatif seperti pengelolaan sampah, konservasi air, dan edukasi lingkungan. Pengunjung juga diajak berpartisipasi dalam program go green. Untuk informasi detail program sustainability, cek di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan update promosi terbaru?",
+    "response": "Untuk mendapatkan update promosi terbaru, Anda bisa: 1) Subscribe newsletter di website kami, 2) Follow media sosial resmi (Instagram, Facebook, Twitter), 3) Aktifkan notifikasi di aplikasi mobile, 4) Join WhatsApp broadcast list melalui customer service. Promosi terbaru selalu di-update secara berkala."
+  },
+  {
+    "instruction": "Apakah ada program untuk veteran atau pensiunan?",
+    "response": "Ya, kami memberikan apresiasi khusus untuk veteran dan pensiunan dengan diskon spesial dan fasilitas prioritas. Untuk menggunakan program ini, silakan tunjukkan kartu identitas veteran/pensiunan yang masih berlaku. Untuk informasi detail, hubungi customer service kami."
+  },
+  {
+    "instruction": "Bagaimana cara mengikuti program volunteer guide?",
+    "response": "Program volunteer guide terbuka untuk umum yang ingin berbagi pengetahuan tentang destinasi wisata. Volunteer akan mendapat training dan sertifikat. Untuk informasi jadwal recruitment volunteer guide, silakan hubungi tim volunteer melalui email yang tertera di website."
+  },
+  {
+    "instruction": "Apakah ada program untuk family package?",
+    "response": "Ya, kami menyediakan family package dengan harga spesial untuk keluarga (2 dewasa + 2 anak). Package ini sudah termasuk tiket masuk, makan, dan aktivitas keluarga. Untuk informasi family package dan pemesanan, kunjungi halaman tiket reservation di website kami."
+  },
+  {
+    "instruction": "Bagaimana cara melakukan reservasi untuk acara live streaming?",
+    "response": "Untuk reservasi acara live streaming atau content creation, diperlukan izin khusus dan koordinasi dengan tim operasional. Silakan hubungi customer service minimal 3 hari sebelum acara dengan detail rencana live streaming dan jumlah crew yang akan datang."
+  },
+{
+    "instruction": "Apakah anak-anak bisa membaca buku cerita di Pojok Anak Perpustakaan Jakarta TIM?",
+    "response": "Ya, anak-anak dapat membaca buku cerita dan mengikuti aktivitas literasi di Pojok Anak Perpustakaan Jakarta di Taman Ismail Marzuki."
+  },
+  {
+    "instruction": "Bagaimana cara mengikuti pameran seni ramah anak di TIM?",
+    "response": "Untuk mengikuti pameran seni ramah anak di Taman Ismail Marzuki, Anda dapat melihat jadwal di website resmi dan mendaftar sesuai instruksi yang tertera."
+  },
+  {
+    "instruction": "Apakah teater boneka di TIM tersedia setiap minggu?",
+    "response": "Teater boneka di Taman Ismail Marzuki biasanya diadakan pada akhir pekan atau hari libur. Jadwal dapat dicek di situs resmi atau langsung di lokasi."
+  },
+  {
+    "instruction": "Apakah toilet keluarga di TIM mudah dijangkau dari area pertunjukan?",
+    "response": "Ya, toilet keluarga di Taman Ismail Marzuki terletak dekat area pertunjukan dan mudah dijangkau oleh pengunjung."
+  },
+  {
+    "instruction": "Bagaimana cara mendaftar workshop menggambar untuk anak di TIM?",
+    "response": "Pendaftaran workshop menggambar untuk anak di TIM dapat dilakukan secara online melalui website atau langsung di lokasi."
+  },
+  {
+    "instruction": "Apakah kafe di TIM menyediakan menu khusus untuk alergi anak?",
+    "response": "Beberapa kafe di TIM menyediakan menu khusus untuk anak dengan alergi tertentu. Silakan tanyakan ke staf kafe untuk informasi detail."
+  },
+  {
+    "instruction": "Apakah tersedia kursi dan meja anak di area istirahat outdoor TIM?",
+    "response": "Ya, area istirahat outdoor di TIM dilengkapi kursi dan meja yang ramah anak untuk kenyamanan keluarga."
+  },
+  {
+    "instruction": "Bagaimana akses stroller dari pintu masuk ke ruang pameran TIM?",
+    "response": "Akses stroller dari pintu masuk ke ruang pameran di TIM sangat mudah karena tersedia jalur khusus yang landai dan aman."
+  },
+  {
+    "instruction": "Apakah ada program edukasi pertanian untuk anak di Taman Agrowisata Cilangkap?",
+    "response": "Ya, tersedia program edukasi pertanian yang interaktif dan menyenangkan untuk anak-anak di Taman Agrowisata Cilangkap."
+  },
+  {
+    "instruction": "Bisakah pengunjung membawa pulang hasil panen dari kebun sayur Cilangkap?",
+    "response": "Pengunjung dapat membawa pulang hasil panen dari kebun sayur Cilangkap dengan membayar sesuai berat hasil panen."
+  },
+  {
+    "instruction": "Apakah ada lomba menangkap ikan untuk anak di Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap kadang mengadakan lomba menangkap ikan khusus anak saat event tertentu."
+  },
+  {
+    "instruction": "Bagaimana cara mengikuti workshop tanam dan petik sendiri di Cilangkap?",
+    "response": "Workshop tanam dan petik sendiri di Cilangkap dapat diikuti dengan mendaftar di loket atau melalui aplikasi resmi."
+  },
+  {
+    "instruction": "Apakah area bermain anak di Cilangkap aman saat musim hujan?",
+    "response": "Area bermain anak di Cilangkap dirancang aman, namun tetap disarankan pengawasan ekstra saat musim hujan."
+  },
+  {
+    "instruction": "Apakah gazebo di Cilangkap bisa dipesan untuk keluarga besar?",
+    "response": "Ya, gazebo di Cilangkap dapat dipesan untuk keluarga besar. Hubungi petugas untuk reservasi dan informasi kapasitas."
+  },
+  {
+    "instruction": "Adakah menu vegetarian di penjual makanan Taman Agrowisata Cilangkap?",
+    "response": "Beberapa penjual makanan di Cilangkap menawarkan menu vegetarian berbahan hasil kebun lokal."
+  },
+  {
+    "instruction": "Apakah toilet umum di Cilangkap ramah difabel?",
+    "response": "Toilet umum di Taman Agrowisata Cilangkap sudah dilengkapi fasilitas ramah difabel."
+  },
+  {
+    "instruction": "Apakah jalur jalan tanah di Cilangkap mudah dilalui stroller saat hujan?",
+    "response": "Jalur jalan tanah di Cilangkap tetap bisa dilalui stroller, namun sebaiknya gunakan stroller dengan roda besar saat musim hujan."
+  },
+  {
+    "instruction": "Apakah gondola J-Sky Ferris Wheel bisa diisi satu keluarga?",
+    "response": "Ya, satu gondola J-Sky Ferris Wheel dapat menampung satu keluarga kecil dengan nyaman dan aman."
+  },
+  {
+    "instruction": "Bagaimana cara mendapatkan foto keluarga di spot foto J-Sky Ferris Wheel?",
+    "response": "Anda dapat meminta bantuan staf atau menggunakan jasa foto profesional di spot foto J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Apakah ada playground indoor khusus balita di dekat J-Sky Ferris Wheel?",
+    "response": "Tersedia playground indoor di AEON Mall dekat J-Sky Ferris Wheel yang aman untuk balita."
+  },
+  {
+    "instruction": "Apakah ruang menyusui di J-Sky Ferris Wheel bisa diakses tanpa tiket?",
+    "response": "Ruang menyusui dan ganti popok di area AEON Mall dekat J-Sky Ferris Wheel dapat diakses tanpa tiket wahana."
+  },
+  {
+    "instruction": "Adakah menu makanan sehat untuk anak di food court J-Sky Ferris Wheel?",
+    "response": "Food court di AEON Mall menyediakan berbagai menu sehat dan ramah anak dekat J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Apakah toko mainan di area J-Sky Ferris Wheel menyediakan mainan edukasi?",
+    "response": "Toko mainan di area J-Sky Ferris Wheel menyediakan pilihan mainan edukasi untuk berbagai usia anak."
+  },
+  {
+    "instruction": "Apakah petugas keamanan di J-Sky Ferris Wheel siap membantu anak hilang?",
+    "response": "Petugas keamanan di J-Sky Ferris Wheel terlatih untuk membantu jika ada anak yang terpisah dari orang tua."
+  },
+  {
+    "instruction": "Bagaimana kondisi toilet keluarga di AEON Mall dekat J-Sky Ferris Wheel?",
+    "response": "Toilet keluarga di AEON Mall dekat J-Sky Ferris Wheel bersih, luas, dan dilengkapi fasilitas ganti popok."
+  },
+  {
+    "instruction": "Apakah anak boleh memberi makan sapi sendiri di Cibugary Farm?",
+    "response": "Anak-anak boleh memberi makan sapi dan kambing sendiri di Cibugary Farm dengan pendampingan petugas."
+  },
+  {
+    "instruction": "Apakah tur peternakan di Cibugary Farm tersedia untuk TK?",
+    "response": "Ya, tur edukatif peternakan di Cibugary Farm sangat cocok untuk kunjungan TK dan kelompok anak usia dini."
+  },
+  {
+    "instruction": "Bagaimana jadwal demo pembuatan yoghurt di Cibugary Farm?",
+    "response": "Demo pembuatan yoghurt di Cibugary Farm biasanya dijadwalkan setiap akhir pekan, silakan cek ke petugas untuk kepastian waktu."
+  },
+  {
+    "instruction": "Apakah boleh membawa tikar untuk piknik di Cibugary Farm?",
+    "response": "Pengunjung diperbolehkan membawa tikar sendiri untuk piknik di area bermain Cibugary Farm."
+  },
+  {
+    "instruction": "Apakah susu segar di Cibugary Farm bisa dibeli dalam kemasan besar?",
+    "response": "Ya, susu segar di Cibugary Farm tersedia dalam berbagai ukuran kemasan, termasuk kemasan besar untuk keluarga."
+  },
+  {
+    "instruction": "Apakah halaman hijau di Cibugary Farm bisa digunakan untuk aktivitas kelompok?",
+    "response": "Halaman hijau di Cibugary Farm dapat digunakan untuk aktivitas kelompok seperti outbound atau games edukatif."
+  },
+  {
+    "instruction": "Apakah tersedia sabun cuci tangan di setiap titik Cibugary Farm?",
+    "response": "Setiap tempat cuci tangan di Cibugary Farm dilengkapi sabun untuk menjaga kebersihan pengunjung."
+  },
+  {
+    "instruction": "Apakah area parkir di Cibugary Farm cukup untuk bus sekolah?",
+    "response": "Area parkir di Cibugary Farm cukup luas dan dapat menampung bus sekolah untuk kunjungan rombongan."
+  },
+  {
+    "instruction": "Apakah semua lokasi wisata ini menyediakan fasilitas stroller rental?",
+    "response": "Beberapa lokasi wisata menyediakan penyewaan stroller, namun disarankan membawa stroller sendiri untuk kenyamanan."
+  },
+  {
+    "instruction": "Apakah ada fasilitas charging station di area wisata?",
+    "response": "Sebagian besar area wisata modern menyediakan charging station di area istirahat atau food court."
+  },
+  {
+    "instruction": "Bagaimana cara mengakses fasilitas baby care di lokasi wisata?",
+    "response": "Fasilitas baby care seperti ruang menyusui dan ganti popok dapat diakses di area utama lokasi wisata, dekat toilet keluarga."
+  },
+  {
+    "instruction": "Apakah ada jalur khusus difabel di semua lokasi wisata?",
+    "response": "Semua lokasi wisata utama menyediakan jalur khusus difabel untuk memastikan aksesibilitas bagi semua pengunjung."
+  },
+  {
+    "instruction": "Apakah ada fasilitas penitipan barang di lokasi wisata?",
+    "response": "Fasilitas penitipan barang atau loker tersedia di beberapa lokasi wisata, terutama di area utama atau dekat pintu masuk."
+  },
+  {
+    "instruction": "Apakah tersedia ruang tunggu indoor untuk keluarga di lokasi wisata?",
+    "response": "Ruang tunggu indoor untuk keluarga tersedia di area utama lokasi wisata untuk kenyamanan saat menunggu giliran masuk wahana."
+  },
+  {
+    "instruction": "Apakah ada fasilitas air minum gratis di area wisata?",
+    "response": "Beberapa lokasi wisata menyediakan dispenser air minum gratis di area istirahat atau food court."
+  },
+  {
+    "instruction": "Apakah ada fasilitas WiFi gratis di area wisata keluarga?",
+    "response": "WiFi gratis tersedia di area utama lokasi wisata keluarga untuk kemudahan pengunjung."
+  },
+  {
+    "instruction": "Apakah ada fasilitas first aid di lokasi wisata anak?",
+    "response": "Fasilitas first aid atau P3K tersedia di setiap lokasi wisata anak, dengan petugas yang siap membantu jika terjadi kecelakaan ringan."
+  },
+  {
+    "instruction": "Apakah ada jadwal khusus untuk aktivitas keluarga di akhir pekan?",
+    "response": "Banyak lokasi wisata mengadakan aktivitas keluarga khusus pada akhir pekan seperti lomba, workshop, atau pertunjukan."
+  },
+  {
+    "instruction": "Apakah ada paket kunjungan edukasi untuk sekolah di lokasi wisata ini?",
+    "response": "Ya, tersedia paket kunjungan edukasi untuk sekolah di semua lokasi wisata utama, termasuk fasilitas dan materi pembelajaran."
+  },
+  {
+    "instruction": "Apakah ada area khusus untuk menyimpan stroller di lokasi wisata?",
+    "response": "Area khusus untuk menyimpan stroller tersedia di beberapa lokasi wisata, terutama di dekat pintu masuk atau ruang tunggu."
+  },
+  {
+    "instruction": "Apakah ada fasilitas peminjaman payung saat hujan di lokasi wisata?",
+    "response": "Beberapa lokasi wisata menyediakan peminjaman payung gratis atau berbayar saat hujan untuk kenyamanan pengunjung."
+  },
+  {
+    "instruction": "Apakah tersedia tempat duduk untuk lansia di area wisata keluarga?",
+    "response": "Tempat duduk khusus lansia tersedia di area wisata keluarga, biasanya di area teduh dan dekat fasilitas utama."
+  },
+  {
+    "instruction": "Apakah ada program diskon khusus untuk keluarga besar?",
+    "response": "Beberapa lokasi wisata menawarkan diskon khusus untuk keluarga besar, terutama untuk pembelian tiket dalam jumlah banyak."
+  },
+  {
+    "instruction": "Apakah ada fasilitas untuk anak-anak di TIM?",
+    "response": "Ya, di TIM terdapat banyak fasilitas ramah anak seperti Pojok Anak di Perpustakaan Jakarta, pameran seni bertema anak, serta teater interaktif dan pertunjukan boneka."
+  },
+  {
+    "instruction": "Di mana anak-anak bisa membaca buku di TIM?",
+    "response": "Anak-anak bisa membaca buku di Pojok Anak yang ada di Perpustakaan Jakarta, bagian dari fasilitas ramah anak di TIM."
+  },
+  {
+    "instruction": "Apakah TIM punya ruang workshop anak?",
+    "response": "Ya, tersedia ruang workshop anak di TIM yang menyediakan kegiatan seperti menggambar dan kriya untuk mengasah kreativitas anak-anak."
+  },
+  {
+    "instruction": "Adakah fasilitas mushola di TIM?",
+    "response": "Tentu, TIM memiliki mushola yang nyaman serta toilet keluarga yang mudah diakses oleh pengunjung."
+  },
+  {
+    "instruction": "Apakah stroller bisa digunakan di TIM?",
+    "response": "Ya, area di TIM telah didesain ramah stroller, sehingga orang tua bisa membawa bayi atau balita dengan nyaman."
+  },
+  {
+    "instruction": "Apakah ada tempat istirahat outdoor di TIM?",
+    "response": "Ya, terdapat area istirahat outdoor yang teduh, cocok untuk bersantai bersama keluarga setelah mengunjungi galeri atau pertunjukan."
+  },
+  {
+    "instruction": "Apakah ada kafe ramah anak di TIM?",
+    "response": "Ya, TIM memiliki kafe yang menyediakan menu khusus anak-anak agar pengunjung keluarga bisa lebih nyaman."
+  },
+ {
+    "instruction": "Apakah Taman Ismail Marzuki buka setiap hari?",
+    "response": "Ya, Taman Ismail Marzuki biasanya buka setiap hari, namun jam operasional tiap fasilitas bisa berbeda. Disarankan cek langsung di website resmi atau media sosial mereka."
+  },
+  {
+    "instruction": "Bagaimana cara membeli tiket untuk pertunjukan di Taman Ismail Marzuki?",
+    "response": "Silakan kunjungi website resmi mereka di bagian *Ticket Reservation* untuk pembelian tiket pertunjukan."
+  },
+  {
+    "instruction": "Apa itu Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap adalah taman edukasi pertanian dan peternakan di Jakarta Timur yang cocok untuk keluarga dan anak-anak."
+  },
+  {
+    "instruction": "Apa saja aktivitas di Taman Agrowisata Cilangkap?",
+    "response": "Anda bisa belajar bercocok tanam, memberi makan hewan ternak, memetik sayuran, atau mengikuti kegiatan outbond di alam terbuka."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap terletak di Jl. Raya Cilangkap, Cipayung, Jakarta Timur."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk ke Taman Agrowisata Cilangkap?",
+    "response": "Harga tiket bervariasi tergantung paket edukasi yang diambil. Silakan cek detail harga di bagian *Tiket Reservation* website mereka."
+  },
+  {
+    "instruction": "Bagaimana cara membeli tiket ke Taman Agrowisata Cilangkap?",
+    "response": "Untuk pembelian tiket, silakan kunjungi website resmi dan pilih bagian *Ticket Reservation*."
+  },
+  {
+    "instruction": "J-Sky Ferris Wheel itu apa?",
+    "response": "J-Sky Ferris Wheel adalah bianglala tertinggi di Indonesia yang terletak di AEON Mall Jakarta Garden City. Dari atas, Anda bisa melihat pemandangan kota Jakarta dari ketinggian."
+  },
+  {
+    "instruction": "Apa yang menarik dari J-Sky Ferris Wheel?",
+    "response": "Pengalaman naik bianglala setinggi 69 meter dengan kabin ber-AC yang nyaman, cocok untuk foto dan momen romantis."
+  },
+  {
+    "instruction": "Dimana letak J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel terletak di rooftop AEON Mall Jakarta Garden City, Cakung, Jakarta Timur."
+  },
+  {
+    "instruction": "Jam operasional J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel buka setiap hari dari pukul 10.00 hingga 22.00 WIB."
+  },
+  {
+    "instruction": "Bagaimana cara beli tiket J-Sky Ferris Wheel?",
+    "response": "Silakan beli tiket melalui website resmi J-Sky Ferris Wheel di bagian *Ticket Reservation*."
+  },
+  {
+    "instruction": "Cibugary Farm itu apa?",
+    "response": "Cibugary adalah singkatan dari Cibubur Garden Dairy. Ini adalah peternakan edukatif di Cibubur yang menawarkan pengalaman interaktif dengan sapi, kambing, dan hewan ternak lainnya."
+  },
+  {
+    "instruction": "Apa kegiatan di Cibugary Farm?",
+    "response": "Pengunjung bisa memberi makan hewan, memerah susu sapi, hingga belajar proses produksi susu."
+  },
+  {
+    "instruction": "Dimana alamat Cibugary Farm?",
+    "response": "Cibugary Farm terletak di Jalan Jambore, Cibubur, Jakarta Timur, dekat dengan kawasan Buperta (Bumi Perkemahan Pramuka)."
+  },
+  {
+    "instruction": "Apakah Cibugary cocok untuk anak-anak?",
+    "response": "Ya, Cibugary sangat cocok sebagai wisata edukasi anak-anak tentang dunia peternakan."
+  },
+  {
+    "instruction": "Bagaimana cara reservasi kunjungan ke Cibugary?",
+    "response": "Silakan kunjungi bagian *Ticket Reservation* di website Cibugary untuk reservasi dan informasi harga."
+  },
+  {
+    "instruction": "Fasilitas edukatif apa yang ada di Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap memiliki kebun sayur edukatif, kolam ikan untuk menangkap ikan, serta workshop tanam dan petik sendiri yang cocok untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah ada tempat duduk untuk istirahat di Taman Agrowisata Cilangkap?",
+    "response": "Ya, tersedia banyak gazebo dan tempat duduk keluarga yang tersebar di area taman untuk beristirahat."
+  },
+  {
+    "instruction": "Apakah jalur di taman ini aman untuk anak-anak?",
+    "response": "Tentu, jalur di Taman Agrowisata Cilangkap menggunakan tanah yang diratakan dan aman untuk anak-anak serta stroller."
+  },
+  {
+    "instruction": "Apakah ada penjual makanan di Taman Agrowisata Cilangkap?",
+    "response": "Ya, pengunjung bisa menikmati makanan tradisional dan minuman segar yang dijual oleh pedagang di area taman."
+  },
+  {
+    "instruction": "Apakah anak-anak bisa ikut aktivitas menanam di Taman Agrowisata Cilangkap?",
+    "response": "Bisa! Anak-anak dapat mengikuti workshop menanam dan memetik hasil kebun sendiri dengan pendampingan petugas."
+  },
+  {
+    "instruction": "Di mana saya bisa cuci tangan di Taman Agrowisata Cilangkap?",
+    "response": "Tersedia beberapa titik area cuci tangan yang strategis dan mudah diakses oleh pengunjung."
+  },
+  {
+    "instruction": "Apakah cocok untuk field trip anak sekolah?",
+    "response": "Sangat cocok! Taman Agrowisata Cilangkap menawarkan aktivitas edukatif dan alam terbuka yang ideal untuk anak-anak sekolah."
+  },
+  {
+    "instruction": "Apakah J-Sky Ferris Wheel punya gondola yang tertutup?",
+    "response": "Ya, semua gondola di J-Sky Ferris Wheel tertutup dan ber-AC sehingga aman dan nyaman untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah ada taman bermain di dekat J-Sky Ferris Wheel?",
+    "response": "Ya, tersedia taman bermain indoor di dalam AEON Mall yang terintegrasi dengan J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Di mana bisa mengganti popok bayi di sekitar J-Sky?",
+    "response": "J-Sky Ferris Wheel terhubung dengan AEON Mall yang menyediakan ruang menyusui dan ruang ganti popok bayi."
+  },
+  {
+    "instruction": "Apakah ada toilet keluarga di J-Sky Ferris Wheel?",
+    "response": "Ya, toilet keluarga bersih dan lengkap tersedia di dalam AEON Mall dekat dengan area wahana."
+  },
+  {
+    "instruction": "Apakah tersedia makanan anak di sekitar J-Sky?",
+    "response": "Tersedia food court dengan banyak pilihan menu anak yang terjangkau dan sehat di AEON Mall."
+  },
+  {
+    "instruction": "Apakah ada toko mainan di dekat J-Sky Ferris Wheel?",
+    "response": "Ya, pengunjung bisa mengakses berbagai toko mainan anak yang berada di dalam area mall."
+  },
+  {
+    "instruction": "Apakah J-Sky aman untuk balita?",
+    "response": "Aman. Gondola yang tertutup dan petugas yang ramah anak menjadikan J-Sky Ferris Wheel cocok untuk keluarga dengan balita."
+  },
+  {
+    "instruction": "Apa saja aktivitas anak-anak di Cibugary Farm?",
+    "response": "Anak-anak bisa memberi makan sapi dan kambing, mengikuti tur peternakan, serta bermain di halaman hijau."
+  },
+  {
+    "instruction": "Apakah anak bisa belajar membuat yoghurt di Cibugary Farm?",
+    "response": "Ya, Cibugary Farm menyediakan demo edukatif tentang proses pembuatan susu menjadi yoghurt yang bisa diikuti anak-anak."
+  },
+  {
+    "instruction": "Apakah tersedia tempat bermain di Cibugary Farm?",
+    "response": "Ya, tersedia area bermain dan piknik yang aman dan ramah anak di dalam kawasan peternakan."
+  },
+  {
+    "instruction": "Apa yang dijual di toko Cibugary Farm?",
+    "response": "Toko di Cibugary Farm menjual susu segar, yoghurt, dan camilan sehat yang bisa dinikmati langsung atau dibawa pulang."
+  },
+  {
+    "instruction": "Apakah ada area untuk interaksi dengan hewan?",
+    "response": "Ya, pengunjung bisa bermain dan berinteraksi langsung dengan hewan ternak di halaman hijau yang luas."
+  },
+  {
+    "instruction": "Apakah fasilitas toilet dan parkir tersedia?",
+    "response": "Cibugary Farm memiliki toilet yang bersih dan area parkir luas yang dekat dengan gerbang masuk."
+  },
+  {
+    "instruction": "Bisakah anak-anak ikut memberi makan hewan di Cibugary?",
+    "response": "Tentu! Anak-anak akan diajak langsung untuk memberi makan hewan ternak dengan panduan dari petugas."
+  },
+  {
+    "instruction": "Apakah TIM menyediakan area makan piknik?",
+    "response": "Ya, terdapat area terbuka di TIM yang cocok untuk piknik bersama keluarga."
+  },
+  {
+    "instruction": "Di mana saya bisa menyimpan stroller di TIM?",
+    "response": "TIM menyediakan beberapa tempat parkir stroller di dekat galeri dan ruang pertunjukan."
+  },
+  {
+    "instruction": "Adakah ruang laktasi di TIM?",
+    "response": "Ya, tersedia ruang laktasi bagi ibu menyusui di beberapa titik strategis dalam area TIM."
+  },
+  {
+    "instruction": "Apa saja pertunjukan ramah anak di TIM?",
+    "response": "Beberapa pertunjukan ramah anak di TIM termasuk teater boneka, dongeng interaktif, dan pertunjukan musikal anak."
+  },
+  {
+    "instruction": "Bisakah anak-anak ikut kegiatan seni di TIM?",
+    "response": "Bisa, TIM sering mengadakan workshop seni untuk anak-anak seperti menggambar dan melukis."
+  },
+  {
+    "instruction": "Apakah ada taman kecil atau ruang terbuka hijau di TIM?",
+    "response": "Ya, tersedia taman kecil dengan pepohonan rindang yang nyaman untuk anak-anak bermain ringan."
+  },
+  {
+    "instruction": "Bagaimana akses lift untuk pengunjung dengan stroller di TIM?",
+    "response": "TIM memiliki akses lift yang memudahkan pengunjung dengan stroller atau kursi roda."
+  },
+  {
+    "instruction": "Apakah TIM cocok untuk kunjungan edukasi anak sekolah?",
+    "response": "Sangat cocok. TIM menawarkan pengalaman budaya, seni, dan edukasi dalam satu lokasi."
+  },
+  {
+    "instruction": "Apakah di Agrowisata Cilangkap ada spot foto anak-anak?",
+    "response": "Ya, banyak spot foto lucu seperti patung buah dan mini kebun yang menarik untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah bisa membawa makanan sendiri ke taman?",
+    "response": "Boleh, pengunjung diperbolehkan membawa makanan sendiri dan menikmatinya di area piknik."
+  },
+  {
+    "instruction": "Apakah hewan di Taman Agrowisata bisa dipegang oleh anak-anak?",
+    "response": "Ya, dengan pengawasan petugas, anak-anak bisa menyentuh dan memberi makan beberapa hewan jinak."
+  },
+  {
+    "instruction": "Apakah disediakan aktivitas berkebun untuk anak?",
+    "response": "Ada, kegiatan berkebun seperti menanam benih atau memetik sayuran menjadi favorit anak-anak."
+  },
+  {
+    "instruction": "Apakah tersedia jalur kursi roda atau stroller?",
+    "response": "Tersedia jalur khusus yang bisa dilalui stroller dan kursi roda untuk memudahkan akses."
+  },
+  {
+    "instruction": "Apa jenis tanaman yang bisa dikenalkan ke anak?",
+    "response": "Anak-anak bisa mengenal berbagai jenis tanaman seperti bayam, kangkung, tomat, dan sawi."
+  },
+  {
+    "instruction": "Apakah ada kolam ikan kecil di sana?",
+    "response": "Ya, anak-anak bisa melihat dan menangkap ikan di kolam mini yang disediakan."
+  },
+  {
+    "instruction": "Apakah ada fasilitas parkir luas untuk rombongan sekolah?",
+    "response": "Ya, tersedia lahan parkir yang luas, cocok untuk bus rombongan anak sekolah."
+  },
+  {
+    "instruction": "Berapa lama durasi satu putaran di J-Sky?",
+    "response": "Durasi satu putaran J-Sky Ferris Wheel sekitar 15 menit, cukup untuk menikmati pemandangan."
+  },
+  {
+    "instruction": "Bisakah anak naik J-Sky Ferris Wheel sendiri?",
+    "response": "Anak-anak harus didampingi oleh orang tua atau pendamping saat menaiki wahana."
+  },
+  {
+    "instruction": "Apakah tersedia pemesanan tiket online untuk J-Sky?",
+    "response": "Ya, tiket J-Sky bisa dibeli secara online maupun langsung di lokasi."
+  },
+  {
+    "instruction": "Apakah gondola J-Sky anti panas?",
+    "response": "Ya, gondola dilengkapi AC sehingga tetap sejuk dan nyaman bahkan saat siang hari."
+  },
+  {
+    "instruction": "Apakah tersedia petugas yang membantu anak naik gondola?",
+    "response": "Tentu, petugas akan membantu keluarga dan anak-anak saat naik dan turun gondola."
+  },
+  {
+    "instruction": "Apakah J-Sky Ferris Wheel aman saat hujan?",
+    "response": "Gondola tertutup dan aman digunakan saat hujan ringan, namun operasional dapat ditunda jika hujan lebat."
+  },
+  {
+    "instruction": "Di mana lokasi wahana ini tepatnya?",
+    "response": "J-Sky Ferris Wheel berada di rooftop AEON Mall Jakarta Garden City, lantai tertinggi mall."
+  },
+  {
+    "instruction": "Apakah J-Sky menyediakan suvenir untuk anak-anak?",
+    "response": "Ya, tersedia toko suvenir kecil dengan mainan dan pernak-pernik khas J-Sky."
+  },
+  {
+    "instruction": "Apakah di Cibugary ada edukasi tentang peternakan?",
+    "response": "Ya, anak-anak bisa belajar tentang proses perah susu sapi, memberi makan, dan mengenal jenis hewan ternak."
+  },
+  {
+    "instruction": "Apakah anak-anak bisa memberi susu ke anak sapi?",
+    "response": "Ya, anak-anak bisa mencoba memberi susu ke anak sapi dengan botol di bawah bimbingan petugas."
+  },
+  {
+    "instruction": "Apakah tersedia playground di Cibugary?",
+    "response": "Tersedia area bermain sederhana dengan perosotan dan ayunan di halaman peternakan."
+  },
+  {
+    "instruction": "Apakah ada tempat duduk untuk orang tua saat anak bermain?",
+    "response": "Ya, tersedia banyak kursi dan tempat duduk di sekitar area interaksi hewan."
+  },
+  {
+    "instruction": "Apakah hewan-hewan di sana aman untuk anak-anak?",
+    "response": "Semua hewan jinak dan sudah terbiasa berinteraksi dengan pengunjung, termasuk anak-anak."
+  },
+  {
+    "instruction": "Apa yang harus dibawa saat berkunjung ke Cibugary?",
+    "response": "Sebaiknya membawa topi, air minum, baju ganti untuk anak, dan sandal agar nyaman di area peternakan."
+  },
+  {
+    "instruction": "Apakah anak-anak bisa mencoba memerah susu?",
+    "response": "Ya, tersedia sesi edukasi memerah susu sapi yang dipandu petugas secara aman."
+  },
+  {
+    "instruction": "Berapa lama rata-rata waktu kunjungan di Cibugary?",
+    "response": "Rata-rata pengunjung menghabiskan waktu sekitar 1,5 hingga 2 jam di Cibugary Farm."
+  },
+  {
+    "instruction": "TIM adalah?",
+    "response": "Taman Ismail Marzuki (TIM) adalah pusat kebudayaan dan seni terbesar di Jakarta yang terletak di Cikini, Jakarta Pusat. TIM menjadi landmark penting untuk pertunjukan seni, pameran, dan berbagai acara budaya. Tempat ini memiliki berbagai fasilitas seperti gedung pertunjukan, galeri seni, planetarium, dan taman yang asri untuk bersantai."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki berlokasi di Jalan Cikini Raya No. 73, Cikini, Menteng, Jakarta Pusat 10330. Lokasinya sangat strategis dan mudah diakses dari berbagai penjuru Jakarta."
+  },
+  {
+    "instruction": "Apa saja fasilitas di Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki memiliki berbagai fasilitas lengkap seperti: Gedung Kesenian Jakarta untuk pertunjukan teater dan musik, Galeri Nasional Indonesia untuk pameran seni rupa, Planetarium Jakarta untuk edukasi astronomi, Institut Kesenian Jakarta (IKJ), perpustakaan, taman yang asri, area parkir, dan berbagai ruang serbaguna untuk acara budaya."
+  },
+  {
+    "instruction": "Bagaimana cara ke Taman Ismail Marzuki?",
+    "response": "Anda dapat mencapai Taman Ismail Marzuki dengan berbagai transportasi: menggunakan TransJakarta turun di Halte Cikini, kereta KRL turun di Stasiun Cikini, atau kendaraan pribadi dengan parkir di area TIM. Lokasinya sangat strategis di pusat Jakarta dan mudah diakses dari berbagai arah."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk TIM?",
+    "response": "Untuk informasi harga tiket masuk dan reservasi Taman Ismail Marzuki, silakan kunjungi bagian tiket reservation di website resmi. Harga tiket dapat bervariasi tergantung acara dan fasilitas yang ingin dikunjungi."
+  },
+  {
+    "instruction": "Jam operasional TIM?",
+    "response": "Taman Ismail Marzuki umumnya buka setiap hari dari pukul 08.00-21.00 WIB. Namun jam operasional dapat berbeda untuk setiap fasilitas. Untuk informasi lengkap dan reservasi, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apa itu Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap adalah destinasi wisata edukasi pertanian yang berlokasi di Jakarta Timur. Tempat ini menawarkan pengalaman belajar tentang budidaya tanaman, peternakan, dan kehidupan pedesaan di tengah kota Jakarta. Cocok untuk wisata keluarga dan edukasi anak-anak."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap terletak di Jalan Raya Cilangkap, Kelurahan Cilangkap, Kecamatan Cipayung, Jakarta Timur. Lokasinya berada di area yang masih asri dan hijau, memberikan suasana pedesaan yang menyegarkan."
+  },
+  {
+    "instruction": "Apa saja aktivitas di Taman Agrowisata Cilangkap?",
+    "response": "Di Taman Agrowisata Cilangkap, Anda dapat menikmati berbagai aktivitas seperti: berkeliling kebun dan sawah, belajar bercocok tanam, memberi makan ternak, workshop pertanian, piknik keluarga, fotografi alam, dan menikmati produk segar hasil pertanian lokal."
+  },
+  {
+    "instruction": "Apakah Taman Agrowisata Cilangkap cocok untuk anak-anak?",
+    "response": "Ya, Taman Agrowisata Cilangkap sangat cocok untuk anak-anak karena menawarkan edukasi pertanian yang menyenangkan. Anak-anak dapat belajar tentang tanaman, hewan ternak, dan proses pertanian secara langsung sambil bermain di alam terbuka."
+  },
+  {
+    "instruction": "Berapa tiket masuk Taman Agrowisata Cilangkap?",
+    "response": "Untuk informasi harga tiket masuk dan pemesanan kunjungan ke Taman Agrowisata Cilangkap, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan membantu Anda dengan informasi tarif terkini dan paket wisata yang tersedia."
+  },
+  {
+    "instruction": "J-Sky Ferris Wheel adalah?",
+    "response": "J-Sky Ferris Wheel adalah wahana bianglala raksasa yang menjadi salah satu ikon wisata Jakarta. Dengan ketinggian mencapai puluhan meter, J-Sky menawarkan pemandangan spektakuler kota Jakarta dari atas. Wahana ini dilengkapi dengan gondola ber-AC yang nyaman dan aman untuk seluruh keluarga."
+  },
+  {
+    "instruction": "Dimana lokasi J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel berlokasi di area Jakarta yang strategis dengan akses mudah dari berbagai penjuru kota. Lokasinya berada di kawasan yang ramai dengan berbagai fasilitas pendukung seperti restoran, toko, dan area parkir yang luas."
+  },
+  {
+    "instruction": "Berapa lama naik J-Sky Ferris Wheel?",
+    "response": "Satu putaran J-Sky Ferris Wheel memakan waktu sekitar 15-20 menit, memberikan Anda cukup waktu untuk menikmati pemandangan Jakarta dari ketinggian. Setiap gondola dapat menampung beberapa orang dengan nyaman dan aman."
+  },
+  {
+    "instruction": "Kapan waktu terbaik naik J-Sky?",
+    "response": "Waktu terbaik untuk naik J-Sky Ferris Wheel adalah saat sore menjelang matahari terbenam (golden hour) atau malam hari untuk melihat gemerlap lampu kota Jakarta. Pemandangan dari ketinggian akan sangat memukau pada waktu-waktu tersebut."
+  },
+  {
+    "instruction": "Bagaimana cara pesan tiket J-Sky Ferris Wheel?",
+    "response": "Untuk pemesanan tiket J-Sky Ferris Wheel, silakan kunjungi bagian tiket reservation di website resmi. Anda dapat memilih waktu kunjungan, jumlah tiket, dan melakukan pembayaran secara online untuk kemudahan dan kepastian tempat."
+  },
+  {
+    "instruction": "Apakah J-Sky aman untuk anak-anak?",
+    "response": "Ya, J-Sky Ferris Wheel sangat aman untuk anak-anak. Wahana ini dilengkapi dengan sistem keamanan standar internasional, gondola yang stabil, dan operator yang berpengalaman. Anak-anak harus didampingi orang dewasa untuk keamanan optimal."
+  },
+  {
+    "instruction": "Cibugary Farm adalah?",
+    "response": "Cibugary Farm adalah wisata agro yang menawarkan pengalaman berinteraksi langsung dengan alam dan pertanian. Tempat ini menyediakan berbagai aktivitas edukatif seperti berkebun, berternak, dan menikmati udara segar di lingkungan pedesaan yang masih asri di Jakarta."
+  },
+  {
+    "instruction": "Dimana lokasi Cibugary Farm?",
+    "response": "Cibugary Farm berlokasi di area Jakarta yang masih hijau dan asri, memberikan suasana pedesaan yang menyegarkan. Lokasinya mudah diakses dengan kendaraan pribadi atau transportasi umum, dengan fasilitas parkir yang memadai."
+  },
+  {
+    "instruction": "Apa saja fasilitas di Cibugary Farm?",
+    "response": "Cibugary Farm memiliki berbagai fasilitas menarik seperti: area berkebun, kandang ternak, kolam ikan, area bermain anak, gazebo untuk istirahat, warung makan dengan menu khas pedesaan, dan jalur trekking untuk menjelajahi area farm."
+  },
+  {
+    "instruction": "Aktivitas apa saja yang bisa dilakukan di Cibugary Farm?",
+    "response": "Di Cibugary Farm, Anda dapat menikmati berbagai aktivitas seperti: belajar berkebun dan bercocok tanam, memberi makan hewan ternak, memancing di kolam, workshop pertanian, piknik keluarga, fotografi alam, dan menikmati makanan segar hasil pertanian."
+  },
+  {
+    "instruction": "Berapa harga tiket Cibugary Farm?",
+    "response": "Untuk informasi harga tiket masuk dan paket wisata Cibugary Farm, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang tarif dan paket aktivitas yang tersedia."
+  },
+  {
+    "instruction": "Apakah Cibugary Farm buka setiap hari?",
+    "response": "Untuk informasi jam operasional dan hari buka Cibugary Farm, silakan cek bagian tiket reservation di website resmi. Jadwal operasional dapat berubah mengikuti musim dan acara khusus yang sedang berlangsung."
+  },
+  {
+    "instruction": "Tempat wisata apa saja yang ada di Jakarta?",
+    "response": "Jakarta memiliki berbagai tempat wisata menarik, termasuk 4 destinasi unggulan yaitu: Taman Ismail Marzuki (TIM) untuk wisata budaya dan seni, Taman Agrowisata Cilangkap untuk edukasi pertanian, J-Sky Ferris Wheel untuk pemandangan kota dari ketinggian, dan Cibugary Farm untuk wisata agro yang menyegarkan."
+  },
+  {
+    "instruction": "Wisata keluarga di Jakarta yang recommended?",
+    "response": "Untuk wisata keluarga di Jakarta, saya merekomendasikan: Taman Agrowisata Cilangkap dan Cibugary Farm yang cocok untuk edukasi anak tentang pertanian, J-Sky Ferris Wheel untuk pengalaman seru melihat kota dari ketinggian, dan Taman Ismail Marzuki untuk mengenalkan anak pada seni dan budaya."
+  },
+  {
+    "instruction": "Tempat wisata edukasi di Jakarta?",
+    "response": "Jakarta memiliki tempat wisata edukasi yang menarik seperti: Taman Ismail Marzuki dengan planetarium dan galeri seni untuk edukasi budaya, Taman Agrowisata Cilangkap untuk belajar pertanian, dan Cibugary Farm untuk pengalaman langsung berinteraksi dengan alam dan ternak."
+  },
+  {
+    "instruction": "Wisata outdoor di Jakarta?",
+    "response": "Untuk wisata outdoor di Jakarta, Anda dapat mengunjungi: Taman Agrowisata Cilangkap untuk aktivitas berkebun dan berternak, Cibugary Farm untuk trekking dan eksplorasi alam, J-Sky Ferris Wheel untuk pemandangan outdoor dari ketinggian, dan Taman Ismail Marzuki yang memiliki taman hijau yang asri."
+  },
+  {
+    "instruction": "Tempat foto instagramable di Jakarta?",
+    "response": "Untuk foto yang instagramable di Jakarta, kunjungi: J-Sky Ferris Wheel untuk foto dengan latar belakang skyline Jakarta, Taman Ismail Marzuki dengan arsitektur seni yang unik, Taman Agrowisata Cilangkap untuk foto dengan nuansa pedesaan, dan Cibugary Farm untuk foto dengan pemandangan alam yang hijau."
+  },
+  {
+    "instruction": "Cara booking tiket tempat wisata Jakarta?",
+    "response": "Untuk pemesanan tiket semua tempat wisata (TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm), silakan kunjungi bagian tiket reservation di website resmi masing-masing. Tim customer service akan membantu proses booking dan memberikan informasi lengkap tentang harga dan paket wisata."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang buka malam?",
+    "response": "Untuk wisata malam di Jakarta, J-Sky Ferris Wheel menawarkan pengalaman melihat gemerlap lampu kota yang menakjubkan. Taman Ismail Marzuki juga sering mengadakan pertunjukan seni malam. Untuk jadwal lengkap dan pemesanan tiket, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Wisata murah di Jakarta?",
+    "response": "Jakarta menawarkan berbagai pilihan wisata dengan harga terjangkau seperti Taman Ismail Marzuki, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi harga terkini dan promo khusus, silakan kunjungi bagian tiket reservation di website resmi masing-masing tempat wisata."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang cocok untuk date?",
+    "response": "Untuk romantic date di Jakarta, J-Sky Ferris Wheel sangat cocok dengan pemandangan kota yang romantis, terutama saat sunset. Taman Ismail Marzuki juga menawarkan suasana seni dan budaya yang intimate. Untuk reservasi dan memilih waktu terbaik, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Paket wisata Jakarta yang tersedia?",
+    "response": "Tersedia berbagai paket wisata Jakarta yang mencakup kunjungan ke TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi lengkap tentang paket wisata, harga, dan cara pemesanan, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Wisata Jakarta yang bisa dikunjungi dalam sehari?",
+    "response": "Anda dapat mengunjungi beberapa tempat wisata Jakarta dalam sehari dengan perencanaan yang baik. Kombinasi TIM untuk budaya, dilanjutkan J-Sky untuk pemandangan kota, dan Taman Agrowisata atau Cibugary Farm untuk relaksasi. Untuk mengatur jadwal kunjungan yang efisien, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang ramah disabilitas?",
+    "response": "Sebagian besar tempat wisata Jakarta seperti TIM dan J-Sky Ferris Wheel memiliki fasilitas yang ramah disabilitas. Untuk informasi aksesibilitas khusus dan bantuan reservasi untuk pengunjung berkebutuhan khusus, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Transportasi ke tempat wisata Jakarta?",
+    "response": "Akses transportasi ke tempat wisata Jakarta cukup mudah. TIM dapat dicapai dengan TransJakarta dan KRL, sementara tempat lain dapat diakses dengan kendaraan pribadi atau transportasi online. Untuk informasi rute dan parkir, silakan cek bagian tiket reservation di website resmi masing-masing tempat."
+  },
+  {
+    "instruction": "Makanan di tempat wisata Jakarta?",
+    "response": "Setiap tempat wisata memiliki pilihan kuliner yang menarik. TIM memiliki area food court, Taman Agrowisata dan Cibugary Farm menyajikan makanan khas pedesaan yang segar, sementara J-Sky biasanya dikelilingi berbagai restoran. Untuk informasi lengkap fasilitas makanan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Souvenir di tempat wisata Jakarta?",
+    "response": "Setiap tempat wisata menyediakan berbagai souvenir khas. TIM memiliki merchandise seni dan budaya, Taman Agrowisata dan Cibugary Farm menawarkan produk pertanian segar, sementara J-Sky menyediakan merchandise dengan tema kota Jakarta. Untuk informasi toko souvenir, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Cuaca terbaik untuk wisata Jakarta?",
+    "response": "Jakarta dapat dikunjungi sepanjang tahun. Untuk aktivitas outdoor di Taman Agrowisata Cilangkap dan Cibugary Farm, pagi dan sore hari lebih nyaman. J-Sky indah saat sunset dan malam hari. TIM dapat dinikmati kapan saja. Untuk tips kunjungan berdasarkan cuaca, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Group tour Jakarta tersedia?",
+    "response": "Ya, tersedia paket group tour untuk mengunjungi berbagai tempat wisata Jakarta termasuk TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi paket group, harga khusus, dan cara pemesanan, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Protokol kesehatan di tempat wisata Jakarta?",
+    "response": "Semua tempat wisata Jakarta menerapkan protokol kesehatan yang ketat untuk keamanan pengunjung. Untuk informasi terkini tentang protokol kesehatan, kapasitas pengunjung, dan persyaratan kunjungan, silakan cek bagian tiket reservation di website resmi masing-masing tempat wisata."
+  },
+  {
+    "instruction": "Refund policy tiket wisata Jakarta?",
+    "response": "Setiap tempat wisata memiliki kebijakan refund dan pembatalan yang berbeda. Untuk informasi lengkap tentang terms and conditions, kebijakan refund, dan cara mengajukan pembatalan tiket, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Membership atau kartu langganan wisata Jakarta?",
+    "response": "Beberapa tempat wisata Jakarta menawarkan program membership atau kartu langganan dengan berbagai benefit. Untuk informasi program membership, harga khusus untuk member, dan cara mendaftar, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Taman Ismail Marzuki adalah?",
+    "response": "Taman Ismail Marzuki (TIM) adalah pusat kebudayaan dan seni terbesar di Jakarta yang terletak di Cikini, Jakarta Pusat. TIM menjadi landmark penting untuk pertunjukan seni, pameran, dan berbagai acara budaya. Tempat ini memiliki berbagai fasilitas seperti gedung pertunjukan, galeri seni, planetarium, dan taman yang asri untuk bersantai."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki berlokasi di Jalan Cikini Raya No. 73, Cikini, Menteng, Jakarta Pusat 10330. Lokasinya sangat strategis dan mudah diakses dari berbagai penjuru Jakarta."
+  },
+  {
+    "instruction": "Apa saja fasilitas di Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki memiliki berbagai fasilitas lengkap seperti: Gedung Kesenian Jakarta untuk pertunjukan teater dan musik, Galeri Nasional Indonesia untuk pameran seni rupa, Planetarium Jakarta untuk edukasi astronomi, Institut Kesenian Jakarta (IKJ), perpustakaan, taman yang asri, area parkir, dan berbagai ruang serbaguna untuk acara budaya."
+  },
+  {
+    "instruction": "Bagaimana cara ke Taman Ismail Marzuki?",
+    "response": "Anda dapat mencapai Taman Ismail Marzuki dengan berbagai transportasi: menggunakan TransJakarta turun di Halte Cikini, kereta KRL turun di Stasiun Cikini, atau kendaraan pribadi dengan parkir di area TIM. Lokasinya sangat strategis di pusat Jakarta dan mudah diakses dari berbagai arah."
+  },
+  {
+    "instruction": "Berapa harga tiket masuk TIM?",
+    "response": "Untuk informasi harga tiket masuk dan reservasi Taman Ismail Marzuki, silakan kunjungi bagian tiket reservation di website resmi. Harga tiket dapat bervariasi tergantung acara dan fasilitas yang ingin dikunjungi."
+  },
+  {
+    "instruction": "Jam operasional TIM?",
+    "response": "Taman Ismail Marzuki umumnya buka setiap hari dari pukul 08.00-21.00 WIB. Namun jam operasional dapat berbeda untuk setiap fasilitas. Untuk informasi lengkap dan reservasi, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Taman Agrowisata Cilangkap adalah?",
+    "response": "Taman Agrowisata Cilangkap adalah destinasi wisata edukasi pertanian yang berlokasi di Jakarta Timur. Tempat ini menawarkan pengalaman belajar tentang budidaya tanaman, peternakan, dan kehidupan pedesaan di tengah kota Jakarta. Cocok untuk wisata keluarga dan edukasi anak-anak."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap terletak di Jalan Raya Cilangkap, Kelurahan Cilangkap, Kecamatan Cipayung, Jakarta Timur. Lokasinya berada di area yang masih asri dan hijau, memberikan suasana pedesaan yang menyegarkan."
+  },
+  {
+    "instruction": "Apa saja aktivitas di Taman Agrowisata Cilangkap?",
+    "response": "Di Taman Agrowisata Cilangkap, Anda dapat menikmati berbagai aktivitas seperti: berkeliling kebun dan sawah, belajar bercocok tanam, memberi makan ternak, workshop pertanian, piknik keluarga, fotografi alam, dan menikmati produk segar hasil pertanian lokal."
+  },
+  {
+    "instruction": "Apakah Taman Agrowisata Cilangkap cocok untuk anak-anak?",
+    "response": "Ya, Taman Agrowisata Cilangkap sangat cocok untuk anak-anak karena menawarkan edukasi pertanian yang menyenangkan. Anak-anak dapat belajar tentang tanaman, hewan ternak, dan proses pertanian secara langsung sambil bermain di alam terbuka."
+  },
+  {
+    "instruction": "Berapa tiket masuk Taman Agrowisata Cilangkap?",
+    "response": "Untuk informasi harga tiket masuk dan pemesanan kunjungan ke Taman Agrowisata Cilangkap, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan membantu Anda dengan informasi tarif terkini dan paket wisata yang tersedia."
+  },
+  {
+    "instruction": "Apa itu J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel adalah wahana bianglala raksasa yang menjadi salah satu ikon wisata Jakarta. Dengan ketinggian mencapai puluhan meter, J-Sky menawarkan pemandangan spektakuler kota Jakarta dari atas. Wahana ini dilengkapi dengan gondola ber-AC yang nyaman dan aman untuk seluruh keluarga."
+  },
+  {
+    "instruction": "Dimana lokasi J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel berlokasi di area Jakarta yang strategis dengan akses mudah dari berbagai penjuru kota. Lokasinya berada di kawasan yang ramai dengan berbagai fasilitas pendukung seperti restoran, toko, dan area parkir yang luas."
+  },
+  {
+    "instruction": "Berapa lama naik J-Sky Ferris Wheel?",
+    "response": "Satu putaran J-Sky Ferris Wheel memakan waktu sekitar 15-20 menit, memberikan Anda cukup waktu untuk menikmati pemandangan Jakarta dari ketinggian. Setiap gondola dapat menampung beberapa orang dengan nyaman dan aman."
+  },
+  {
+    "instruction": "Kapan waktu terbaik naik J-Sky?",
+    "response": "Waktu terbaik untuk naik J-Sky Ferris Wheel adalah saat sore menjelang matahari terbenam (golden hour) atau malam hari untuk melihat gemerlap lampu kota Jakarta. Pemandangan dari ketinggian akan sangat memukau pada waktu-waktu tersebut."
+  },
+  {
+    "instruction": "Bagaimana cara pesan tiket J-Sky Ferris Wheel?",
+    "response": "Untuk pemesanan tiket J-Sky Ferris Wheel, silakan kunjungi bagian tiket reservation di website resmi. Anda dapat memilih waktu kunjungan, jumlah tiket, dan melakukan pembayaran secara online untuk kemudahan dan kepastian tempat."
+  },
+  {
+    "instruction": "Apakah J-Sky aman untuk anak-anak?",
+    "response": "Ya, J-Sky Ferris Wheel sangat aman untuk anak-anak. Wahana ini dilengkapi dengan sistem keamanan standar internasional, gondola yang stabil, dan operator yang berpengalaman. Anak-anak harus didampingi orang dewasa untuk keamanan optimal."
+  },
+  {
+    "instruction": "Cibugary Farm adalah?",
+    "response": "Cibugary Farm adalah wisata agro yang menawarkan pengalaman berinteraksi langsung dengan alam dan pertanian. Tempat ini menyediakan berbagai aktivitas edukatif seperti berkebun, berternak, dan menikmati udara segar di lingkungan pedesaan yang masih asri di Jakarta."
+  },
+  {
+    "instruction": "Dimana lokasi Cibugary Farm?",
+    "response": "Cibugary Farm berlokasi di area Jakarta yang masih hijau dan asri, memberikan suasana pedesaan yang menyegarkan. Lokasinya mudah diakses dengan kendaraan pribadi atau transportasi umum, dengan fasilitas parkir yang memadai."
+  },
+  {
+    "instruction": "Apa saja fasilitas di Cibugary Farm?",
+    "response": "Cibugary Farm memiliki berbagai fasilitas menarik seperti: area berkebun, kandang ternak, kolam ikan, area bermain anak, gazebo untuk istirahat, warung makan dengan menu khas pedesaan, dan jalur trekking untuk menjelajahi area farm."
+  },
+  {
+    "instruction": "Aktivitas apa saja yang bisa dilakukan di Cibugary Farm?",
+    "response": "Di Cibugary Farm, Anda dapat menikmati berbagai aktivitas seperti: belajar berkebun dan bercocok tanam, memberi makan hewan ternak, memancing di kolam, workshop pertanian, piknik keluarga, fotografi alam, dan menikmati makanan segar hasil pertanian."
+  },
+  {
+    "instruction": "Berapa harga tiket Cibugary Farm?",
+    "response": "Untuk informasi harga tiket masuk dan paket wisata Cibugary Farm, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang tarif dan paket aktivitas yang tersedia."
+  },
+  {
+    "instruction": "Apakah Cibugary Farm buka setiap hari?",
+    "response": "Untuk informasi jam operasional dan hari buka Cibugary Farm, silakan cek bagian tiket reservation di website resmi. Jadwal operasional dapat berubah mengikuti musim dan acara khusus yang sedang berlangsung."
+  },
+  {
+    "instruction": "Tempat wisata apa saja yang ada di Jakarta?",
+    "response": "Jakarta memiliki berbagai tempat wisata menarik, termasuk 4 destinasi unggulan yaitu: Taman Ismail Marzuki (TIM) untuk wisata budaya dan seni, Taman Agrowisata Cilangkap untuk edukasi pertanian, J-Sky Ferris Wheel untuk pemandangan kota dari ketinggian, dan Cibugary Farm untuk wisata agro yang menyegarkan."
+  },
+  {
+    "instruction": "Wisata keluarga di Jakarta yang recommended?",
+    "response": "Untuk wisata keluarga di Jakarta, saya merekomendasikan: Taman Agrowisata Cilangkap dan Cibugary Farm yang cocok untuk edukasi anak tentang pertanian, J-Sky Ferris Wheel untuk pengalaman seru melihat kota dari ketinggian, dan Taman Ismail Marzuki untuk mengenalkan anak pada seni dan budaya."
+  },
+  {
+    "instruction": "Tempat wisata edukasi di Jakarta?",
+    "response": "Jakarta memiliki tempat wisata edukasi yang menarik seperti: Taman Ismail Marzuki dengan planetarium dan galeri seni untuk edukasi budaya, Taman Agrowisata Cilangkap untuk belajar pertanian, dan Cibugary Farm untuk pengalaman langsung berinteraksi dengan alam dan ternak."
+  },
+  {
+    "instruction": "Wisata outdoor di Jakarta?",
+    "response": "Untuk wisata outdoor di Jakarta, Anda dapat mengunjungi: Taman Agrowisata Cilangkap untuk aktivitas berkebun dan berternak, Cibugary Farm untuk trekking dan eksplorasi alam, J-Sky Ferris Wheel untuk pemandangan outdoor dari ketinggian, dan Taman Ismail Marzuki yang memiliki taman hijau yang asri."
+  },
+  {
+    "instruction": "Tempat foto instagramable di Jakarta?",
+    "response": "Untuk foto yang instagramable di Jakarta, kunjungi: J-Sky Ferris Wheel untuk foto dengan latar belakang skyline Jakarta, Taman Ismail Marzuki dengan arsitektur seni yang unik, Taman Agrowisata Cilangkap untuk foto dengan nuansa pedesaan, dan Cibugary Farm untuk foto dengan pemandangan alam yang hijau."
+  },
+  {
+    "instruction": "Cara booking tiket tempat wisata Jakarta?",
+    "response": "Untuk pemesanan tiket semua tempat wisata (TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm), silakan kunjungi bagian tiket reservation di website resmi masing-masing. Tim customer service akan membantu proses booking dan memberikan informasi lengkap tentang harga dan paket wisata."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang buka malam?",
+    "response": "Untuk wisata malam di Jakarta, J-Sky Ferris Wheel menawarkan pengalaman melihat gemerlap lampu kota yang menakjubkan. Taman Ismail Marzuki juga sering mengadakan pertunjukan seni malam. Untuk jadwal lengkap dan pemesanan tiket, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Wisata murah di Jakarta?",
+    "response": "Jakarta menawarkan berbagai pilihan wisata dengan harga terjangkau seperti Taman Ismail Marzuki, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi harga terkini dan promo khusus, silakan kunjungi bagian tiket reservation di website resmi masing-masing tempat wisata."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang cocok untuk date?",
+    "response": "Untuk romantic date di Jakarta, J-Sky Ferris Wheel sangat cocok dengan pemandangan kota yang romantis, terutama saat sunset. Taman Ismail Marzuki juga menawarkan suasana seni dan budaya yang intimate. Untuk reservasi dan memilih waktu terbaik, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Paket wisata Jakarta yang tersedia?",
+    "response": "Tersedia berbagai paket wisata Jakarta yang mencakup kunjungan ke TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi lengkap tentang paket wisata, harga, dan cara pemesanan, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Wisata Jakarta yang bisa dikunjungi dalam sehari?",
+    "response": "Anda dapat mengunjungi beberapa tempat wisata Jakarta dalam sehari dengan perencanaan yang baik. Kombinasi TIM untuk budaya, dilanjutkan J-Sky untuk pemandangan kota, dan Taman Agrowisata atau Cibugary Farm untuk relaksasi. Untuk mengatur jadwal kunjungan yang efisien, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Tempat wisata Jakarta yang ramah disabilitas?",
+    "response": "Sebagian besar tempat wisata Jakarta seperti TIM dan J-Sky Ferris Wheel memiliki fasilitas yang ramah disabilitas. Untuk informasi aksesibilitas khusus dan bantuan reservasi untuk pengunjung berkebutuhan khusus, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Transportasi ke tempat wisata Jakarta?",
+    "response": "Akses transportasi ke tempat wisata Jakarta cukup mudah. TIM dapat dicapai dengan TransJakarta dan KRL, sementara tempat lain dapat diakses dengan kendaraan pribadi atau transportasi online. Untuk informasi rute dan parkir, silakan cek bagian tiket reservation di website resmi masing-masing tempat."
+  },
+  {
+    "instruction": "Makanan di tempat wisata Jakarta?",
+    "response": "Setiap tempat wisata memiliki pilihan kuliner yang menarik. TIM memiliki area food court, Taman Agrowisata dan Cibugary Farm menyajikan makanan khas pedesaan yang segar, sementara J-Sky biasanya dikelilingi berbagai restoran. Untuk informasi lengkap fasilitas makanan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Souvenir di tempat wisata Jakarta?",
+    "response": "Setiap tempat wisata menyediakan berbagai souvenir khas. TIM memiliki merchandise seni dan budaya, Taman Agrowisata dan Cibugary Farm menawarkan produk pertanian segar, sementara J-Sky menyediakan merchandise dengan tema kota Jakarta. Untuk informasi toko souvenir, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Cuaca terbaik untuk wisata Jakarta?",
+    "response": "Jakarta dapat dikunjungi sepanjang tahun. Untuk aktivitas outdoor di Taman Agrowisata Cilangkap dan Cibugary Farm, pagi dan sore hari lebih nyaman. J-Sky indah saat sunset dan malam hari. TIM dapat dinikmati kapan saja. Untuk tips kunjungan berdasarkan cuaca, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Group tour Jakarta tersedia?",
+    "response": "Ya, tersedia paket group tour untuk mengunjungi berbagai tempat wisata Jakarta termasuk TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm. Untuk informasi paket group, harga khusus, dan cara pemesanan, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Protokol kesehatan di tempat wisata Jakarta?",
+    "response": "Semua tempat wisata Jakarta menerapkan protokol kesehatan yang ketat untuk keamanan pengunjung. Untuk informasi terkini tentang protokol kesehatan, kapasitas pengunjung, dan persyaratan kunjungan, silakan cek bagian tiket reservation di website resmi masing-masing tempat wisata."
+  },
+  {
+    "instruction": "Refund policy tiket wisata Jakarta?",
+    "response": "Setiap tempat wisata memiliki kebijakan refund dan pembatalan yang berbeda. Untuk informasi lengkap tentang terms and conditions, kebijakan refund, dan cara mengajukan pembatalan tiket, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Membership atau kartu langganan wisata Jakarta?",
+    "response": "Beberapa tempat wisata Jakarta menawarkan program membership atau kartu langganan dengan berbagai benefit. Untuk informasi program membership, harga khusus untuk member, dan cara mendaftar, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisakah saya bawa makanan ke TIM?",
+    "response": "Untuk informasi tentang kebijakan membawa makanan dan minuman ke Taman Ismail Marzuki, serta aturan yang berlaku, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang aturan kunjungan."
+  },
+  {
+    "instruction": "Apakah ada guide di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap menyediakan guide untuk menjelaskan berbagai tanaman dan aktivitas pertanian. Untuk informasi ketersediaan guide dan cara booking guide, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Fasilitas toilet di J-Sky Ferris Wheel bagaimana?",
+    "response": "J-Sky Ferris Wheel dilengkapi dengan fasilitas toilet yang bersih dan terawat untuk kenyamanan pengunjung. Untuk informasi lengkap tentang fasilitas pendukung lainnya, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa sewa tempat event di Cibugary Farm?",
+    "response": "Ya, Cibugary Farm menyediakan fasilitas untuk berbagai acara seperti gathering, team building, dan acara keluarga. Untuk informasi sewa tempat, paket event, dan harga, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah TIM cocok untuk lansia?",
+    "response": "Ya, Taman Ismail Marzuki sangat cocok untuk lansia karena memiliki taman yang nyaman untuk berjalan santai, area duduk yang banyak, dan berbagai pertunjukan seni yang menarik. Untuk informasi aksesibilitas khusus lansia, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Berapa kapasitas maksimal J-Sky per gondola?",
+    "response": "Setiap gondola J-Sky Ferris Wheel memiliki kapasitas terbatas untuk menjaga keamanan dan kenyamanan. Untuk informasi detail kapasitas gondola dan booking untuk grup, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada workshop di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap mengadakan berbagai workshop pertanian seperti berkebun, membuat kompos, dan hidroponik. Untuk jadwal workshop dan cara pendaftaran, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Produk apa yang dijual di Cibugary Farm?",
+    "response": "Cibugary Farm menjual berbagai produk segar hasil pertanian seperti sayuran organik, buah-buahan, telur kampung, dan produk olahan rumahan. Untuk katalog produk dan cara pemesanan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisakah foto pre-wedding di TIM?",
+    "response": "Ya, Taman Ismail Marzuki memiliki banyak spot menarik untuk foto pre-wedding dengan latar belakang seni dan budaya. Untuk izin pemotretan dan informasi biaya, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah J-Sky beroperasi saat hujan?",
+    "response": "Operasional J-Sky Ferris Wheel tergantung kondisi cuaca demi keamanan pengunjung. Untuk informasi terkini tentang operasional dan kebijakan cuaca buruk, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa camping di Taman Agrowisata Cilangkap?",
+    "response": "Untuk informasi tentang fasilitas camping atau bermalam di Taman Agrowisata Cilangkap, termasuk persyaratan dan biaya, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah Cibugary Farm punya penginapan?",
+    "response": "Untuk informasi tentang fasilitas penginapan atau homestay di Cibugary Farm, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang akomodasi yang tersedia."
+  },
+  {
+    "instruction": "Event apa saja yang ada di TIM?",
+    "response": "Taman Ismail Marzuki mengadakan berbagai event seperti pertunjukan teater, konser musik, pameran seni, festival budaya, dan workshop kreatif. Untuk jadwal event terbaru dan cara booking tiket, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Hewan apa saja yang ada di Cibugary Farm?",
+    "response": "Cibugary Farm memiliki berbagai hewan ternak seperti sapi, kambing, ayam, bebek, dan ikan. Pengunjung dapat berinteraksi dan memberi makan hewan-hewan tersebut. Untuk informasi lengkap tentang hewan dan aktivitas, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada area bermain anak di J-Sky?",
+    "response": "J-Sky Ferris Wheel biasanya berada di area yang dilengkapi dengan berbagai fasilitas termasuk area bermain anak. Untuk informasi lengkap tentang fasilitas pendukung dan area bermain, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa belajar melukis di TIM?",
+    "response": "Ya, Taman Ismail Marzuki menyediakan berbagai kelas dan workshop seni termasuk melukis di Institut Kesenian Jakarta dan galeri seni. Untuk informasi kelas melukis dan cara pendaftaran, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada paket ulang tahun di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap menyediakan paket ulang tahun dengan berbagai aktivitas menarik untuk anak-anak di lingkungan alam. Untuk informasi paket ulang tahun dan cara pemesanan, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Berapa lama waktu kunjungan ideal ke Cibugary Farm?",
+    "response": "Waktu ideal untuk mengunjungi Cibugary Farm adalah sekitar 3-4 jam untuk menikmati semua aktivitas dengan santai. Untuk tips kunjungan dan paket wisata yang tersedia, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah J-Sky wheelchair accessible?",
+    "response": "J-Sky Ferris Wheel dirancang untuk dapat diakses oleh pengunjung dengan kebutuhan khusus. Untuk informasi lengkap tentang fasilitas aksesibilitas dan bantuan khusus, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa beli tiket di tempat atau harus online?",
+    "response": "Untuk informasi tentang cara pembelian tiket, apakah tersedia pembelian di tempat atau harus online, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang sistem pembelian tiket."
+  },
+  {
+    "instruction": "Apakah ada diskon untuk pelajar?",
+    "response": "Banyak tempat wisata Jakarta memberikan diskon khusus untuk pelajar. Untuk informasi diskon pelajar, promo khusus, dan cara mendapatkannya, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Fasilitas mushola di tempat wisata ada tidak?",
+    "response": "Sebagian besar tempat wisata Jakarta menyediakan fasilitas mushola untuk kenyamanan pengunjung Muslim. Untuk informasi lengkap tentang fasilitas ibadah di setiap lokasi, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa hosting acara kantor di TIM?",
+    "response": "Ya, Taman Ismail Marzuki memiliki berbagai ruang yang dapat disewa untuk acara kantor, seminar, dan gathering. Untuk informasi sewa ruang, paket corporate event, dan harga, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada rental sepeda di Taman Agrowisata Cilangkap?",
+    "response": "Untuk informasi tentang fasilitas rental sepeda atau kendaraan lain di Taman Agrowisata Cilangkap, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang fasilitas yang tersedia."
+  },
+  {
+    "instruction": "Cuaca dingin bisa tetap ke J-Sky?",
+    "response": "J-Sky Ferris Wheel beroperasi dalam berbagai kondisi cuaca, dan gondola ber-AC memberikan kenyamanan saat cuaca dingin. Untuk informasi operasional terkini dan kondisi cuaca, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah Cibugary Farm ramah lingkungan?",
+    "response": "Ya, Cibugary Farm menerapkan prinsip-prinsip ramah lingkungan dalam operasionalnya termasuk pertanian organik dan konservasi alam. Untuk informasi lengkap tentang program ramah lingkungan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa bawa hewan peliharaan ke tempat wisata?",
+    "response": "Kebijakan membawa hewan peliharaan berbeda untuk setiap tempat wisata. Untuk informasi lengkap tentang aturan hewan peliharaan di TIM, Taman Agrowisata Cilangkap, J-Sky, dan Cibugary Farm, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada first aid di semua tempat wisata?",
+    "response": "Semua tempat wisata Jakarta dilengkapi dengan fasilitas P3K untuk keamanan pengunjung. Untuk informasi lengkap tentang fasilitas keamanan dan kesehatan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Berapa minimum umur untuk naik J-Sky?",
+    "response": "J-Sky Ferris Wheel aman untuk semua usia dengan pendampingan yang tepat. Untuk informasi detail tentang batasan usia dan persyaratan khusus, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa dapat sertifikat setelah workshop di Taman Agrowisata?",
+    "response": "Untuk informasi tentang sertifikat workshop dan program edukasi di Taman Agrowisata Cilangkap, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang program dan sertifikat yang tersedia."
+  },
+  {
+    "instruction": "Apakah TIM buka saat hari libur nasional?",
+    "response": "Jadwal operasional TIM pada hari libur nasional dapat berbeda dari hari biasa. Untuk informasi terkini tentang jadwal khusus dan pemesanan tiket hari libur, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Dress code ke tempat wisata Jakarta?",
+    "response": "Untuk informasi tentang dress code dan aturan berpakaian di setiap tempat wisata, silakan kunjungi bagian tiket reservation di website resmi. Umumnya pengunjung diharapkan berpakaian sopan dan nyaman."
+  },
+  {
+    "instruction": "Apakah ada layanan shuttle ke tempat wisata?",
+    "response": "Untuk informasi tentang layanan shuttle atau transportasi khusus ke tempat wisata Jakarta, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang opsi transportasi."
+  },
+  {
+    "instruction": "Bisa reschedule tiket kalau berhalangan?",
+    "response": "Kebijakan reschedule tiket berbeda untuk setiap tempat wisata. Untuk informasi lengkap tentang cara reschedule, terms and conditions, dan biaya yang mungkin timbul, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada area smoking di tempat wisata?",
+    "response": "Sebagian besar tempat wisata Jakarta memiliki area khusus untuk merokok. Untuk informasi lengkap tentang area smoking dan aturan yang berlaku, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Fasilitas WiFi tersedia di semua tempat?",
+    "response": "Kebanyakan tempat wisata Jakarta menyediakan fasilitas WiFi untuk kenyamanan pengunjung. Untuk informasi lengkap tentang fasilitas WiFi dan password, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa bawa stroller ke tempat wisata?",
+    "response": "Sebagian besar tempat wisata Jakarta dapat diakses dengan stroller. Untuk informasi lengkap tentang aksesibilitas stroller dan fasilitas untuk bayi, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada loker untuk menyimpan barang?",
+    "response": "Beberapa tempat wisata Jakarta menyediakan fasilitas loker untuk menyimpan barang bawaan. Untuk informasi ketersediaan loker dan cara penggunaannya, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Berapa lama antrian di J-Sky saat weekend?",
+    "response": "Waktu antrian J-Sky Ferris Wheel dapat bervariasi tergantung hari dan jam kunjungan. Untuk tips menghindari antrian dan informasi waktu terbaik berkunjung, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah TIM punya program magang atau volunteer?",
+    "response": "Untuk informasi tentang program magang, volunteer, atau kesempatan bekerja di Taman Ismail Marzuki, silakan kunjungi bagian tiket reservation di website resmi. Tim HR akan memberikan informasi lengkap tentang program yang tersedia."
+  },
+  {
+    "instruction": "Bisa request lagu di J-Sky?",
+    "response": "Untuk informasi tentang fasilitas musik atau request lagu selama naik J-Sky Ferris Wheel, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang fasilitas yang tersedia."
+  },
+  {
+    "instruction": "Apakah ada nursery room di tempat wisata?",
+    "response": "Beberapa tempat wisata Jakarta menyediakan nursery room atau baby room untuk kenyamanan ibu dan bayi. Untuk informasi lengkap tentang fasilitas ibu dan anak, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa beli merchandise online?",
+    "response": "Untuk informasi tentang pembelian merchandise online dan produk yang tersedia dari setiap tempat wisata, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang online shop."
+  },
+  {
+    "instruction": "Apakah ada program CSR untuk perusahaan?",
+    "response": "Beberapa tempat wisata Jakarta menawarkan program CSR untuk perusahaan. Untuk informasi tentang program CSR, partnership, dan cara berpartisipasi, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa sewa photographer di tempat wisata?",
+    "response": "Untuk informasi tentang layanan fotografer profesional di tempat wisata Jakarta, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang layanan fotografi yang tersedia."
+  },
+  {
+    "instruction": "Apakah ada program edukasi untuk sekolah?",
+    "response": "Ya, sebagian besar tempat wisata Jakarta menawarkan program edukasi khusus untuk sekolah dengan harga special. Untuk informasi program edukasi, paket sekolah, dan cara booking, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Berapa biaya parkir di tempat wisata?",
+    "response": "Biaya parkir dapat bervariasi di setiap tempat wisata. Untuk informasi lengkap tentang tarif parkir motor dan mobil, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada ATM di area wisata?",
+    "response": "Sebagian besar tempat wisata Jakarta memiliki ATM atau berada di dekat fasilitas perbankan. Untuk informasi lengkap tentang lokasi ATM dan fasilitas perbankan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa bayar dengan kartu kredit/debit?",
+    "response": "Untuk informasi tentang metode pembayaran yang diterima (cash, kartu kredit, debit, e-money), silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang opsi pembayaran."
+  },
+  {
+    "instruction": "Apakah ada program loyalty member?",
+    "response": "Beberapa tempat wisata Jakarta memiliki program loyalty untuk member setia. Untuk informasi tentang program loyalty, benefit member, dan cara mendaftar, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa dapat invoice untuk reimbursement kantor?",
+    "response": "Ya, sebagian besar tempat wisata dapat menerbitkan invoice atau kwitansi untuk keperluan reimbursement. Untuk informasi tentang prosedur invoice dan dokumen yang diperlukan, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah tempat wisata Jakarta halal certified?",
+    "response": "Untuk informasi tentang sertifikasi halal dan fasilitas yang sesuai dengan syariah di tempat wisata Jakarta, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang fasilitas halal."
+  },
+  {
+    "instruction": "Bisa dapat video dokumentasi kunjungan?",
+    "response": "Untuk informasi tentang layanan video dokumentasi atau drone untuk kunjungan grup, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang layanan dokumentasi."
+  },
+  {
+    "instruction": "Apakah ada program internship untuk mahasiswa?",
+    "response": "Untuk informasi tentang program internship atau PKL untuk mahasiswa di tempat wisata Jakarta, silakan kunjungi bagian tiket reservation di website resmi. Tim HR akan memberikan informasi lengkap tentang program yang tersedia."
+  },
+  {
+    "instruction": "Bisa request menu khusus untuk event?",
+    "response": "Untuk informasi tentang catering dan menu khusus untuk event di tempat wisata Jakarta, silakan hubungi bagian tiket reservation di website resmi. Tim event akan memberikan informasi lengkap tentang paket catering yang tersedia."
+  },
+  {
+    "instruction": "Apakah ada fasilitas medical emergency?",
+    "response": "Semua tempat wisata Jakarta dilengkapi dengan fasilitas P3K dan akses ke layanan medis darurat. Untuk informasi lengkap tentang fasilitas medis dan prosedur emergency, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bisa customize paket wisata sesuai kebutuhan?",
+    "response": "Ya, sebagian besar tempat wisata Jakarta dapat menyesuaikan paket wisata sesuai kebutuhan grup atau individu. Untuk informasi custom package dan cara pemesanan, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada program beasiswa untuk kelas seni?",
+    "response": "Untuk informasi tentang program beasiswa atau bantuan biaya untuk kelas seni di Taman Ismail Marzuki, silakan kunjungi bagian tiket reservation di website resmi. Tim akademik akan memberikan informasi lengkap tentang program beasiswa yang tersedia."
+  },
+  {
+    "instruction": "Bisa booking untuk acara pernikahan?",
+    "response": "Beberapa tempat wisata Jakarta menyediakan fasilitas untuk acara pernikahan atau resepsi. Untuk informasi tentang paket wedding, venue, dan harga, silakan hubungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada program exchange dengan wisata luar negeri?",
+    "response": "Untuk informasi tentang program pertukaran atau kerjasama dengan tempat wisata luar negeri, silakan kunjungi bagian tiket reservation di website resmi. Tim manajemen akan memberikan informasi lengkap tentang program internasional."
+  },
+  {
+    "instruction": "Bisa dapat feedback form setelah kunjungan?",
+    "response": "Ya, sebagian besar tempat wisata Jakarta menyediakan feedback form untuk meningkatkan layanan. Untuk informasi tentang cara memberikan feedback dan survey kepuasan, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada program donasi untuk konservasi?",
+    "response": "Untuk informasi tentang program donasi, konservasi, dan cara berpartisipasi dalam pelestarian lingkungan, silakan kunjungi bagian tiket reservation di website resmi. Tim sustainability akan memberikan informasi lengkap tentang program yang tersedia."
+  },
+  {
+    "instruction": "Bisa dapat laporan kunjungan untuk tugas sekolah?",
+    "response": "Untuk informasi tentang bantuan laporan kunjungan atau data untuk tugas sekolah, silakan hubungi bagian tiket reservation di website resmi. Tim edukasi akan memberikan informasi yang diperlukan untuk keperluan akademis."
+  },
+  {
+    "instruction": "Apakah ada program digital detox di tempat wisata?",
+    "response": "Untuk informasi tentang program digital detox atau aktivitas tanpa gadget di tempat wisata Jakarta, silakan kunjungi bagian tiket reservation di website resmi. Tim program akan memberikan informasi lengkap tentang aktivitas yang tersedia."
+  },
+  {
+    "instruction": "Bisa dapat sertifikat kunjungan untuk portofolio?",
+    "response": "Untuk informasi tentang sertifikat kunjungan atau dokumentasi untuk portofolio, silakan kunjungi bagian tiket reservation di website resmi. Tim administrasi akan memberikan informasi lengkap tentang dokumen yang dapat diterbitkan."
+  },
+  {
+    "instruction": "Tempat wisata mana yang paling instagramable?",
+    "response": "Semua tempat wisata Jakarta memiliki spot instagramable yang unik. J-Sky Ferris Wheel menawarkan skyline Jakarta yang spektakuler, TIM dengan arsitektur seni yang artistik, Taman Agrowisata Cilangkap dengan nuansa hijau pedesaan, dan Cibugary Farm dengan pemandangan alam yang asri. Untuk tips foto terbaik di setiap lokasi, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Kapan waktu terbaik foto di setiap tempat wisata?",
+    "response": "Waktu terbaik untuk foto bervariasi: J-Sky saat golden hour atau malam hari, TIM saat pagi untuk cahaya natural, Taman Agrowisata dan Cibugary Farm saat pagi atau sore untuk pencahayaan yang soft. Untuk tips fotografi dan waktu terbaik, silakan cek bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada paket kombinasi semua tempat wisata?",
+    "response": "Untuk informasi tentang paket kombinasi yang mencakup kunjungan ke TIM, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm, silakan kunjungi bagian tiket reservation di website resmi. Tim customer service akan memberikan informasi lengkap tentang paket hemat yang tersedia."
+  },
+  {
+    "instruction": "Berapa budget yang diperlukan untuk wisata Jakarta sehari?",
+    "response": "Budget wisata Jakarta bervariasi tergantung pilihan tempat dan aktivitas. Untuk informasi estimasi budget dan paket hemat yang mencakup transportasi, tiket masuk, dan makan, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apakah ada promo khusus untuk wisatawan lokal?",
+    "response": "Banyak tempat wisata Jakarta memberikan promo khusus untuk wisatawan lokal. Untuk informasi promo terkini, diskon khusus, dan cara mendapatkannya, silakan kunjungi bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apa itu Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki (TIM) adalah pusat kebudayaan dan seni terbesar di Jakarta yang terletak di Cikini, Jakarta Pusat. TIM menjadi landmark penting untuk pertunjukan seni, pameran, dan berbagai acara budaya. Tempat ini memiliki berbagai fasilitas seperti gedung pertunjukan, galeri seni, planetarium, dan taman yang asri untuk bersantai."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Ismail Marzuki?",
+    "response": "Taman Ismail Marzuki berlokasi di Jalan Cikini Raya No. 73, Cikini, Menteng, Jakarta Pusat 10330. Lokasinya sangat strategis dan mudah diakses dari berbagai penjuru Jakarta."
+  },
+  {
+    "instruction": "Apa fasilitas yang ada di TIM?",
+    "response": "TIM memiliki berbagai fasilitas menarik seperti Gedung Kesenian Jakarta, Galeri Cipta, Planetarium Jakarta, Institut Kesenian Jakarta (IKJ), perpustakaan seni, taman terbuka hijau, dan berbagai ruang pameran. Terdapat juga area food court dan tempat parkir yang luas."
+  },
+  {
+    "instruction": "Jam buka TIM berapa?",
+    "response": "Taman Ismail Marzuki buka setiap hari mulai pukul 09.00 hingga 21.00 WIB. Namun untuk fasilitas khusus seperti planetarium dan pertunjukan memiliki jadwal tersendiri. Sebaiknya cek jadwal terbaru di website resmi."
+  },
+  {
+    "instruction": "Bagaimana cara ke TIM dengan transportasi umum?",
+    "response": "TIM dapat diakses dengan berbagai transportasi umum: 1) Busway koridor 1 turun di Halte Cikini, 2) KRL Commuter Line turun di Stasiun Cikini lalu jalan kaki 5 menit, 3) Bus kota jurusan Cikini, 4) Taksi online atau ojek online tersedia di area sekitar."
+  },
+  {
+    "instruction": "Apakah TIM gratis masuk?",
+    "response": "Area taman dan beberapa fasilitas umum di TIM gratis untuk dikunjungi. Namun untuk fasilitas khusus seperti planetarium, pertunjukan teater, atau pameran tertentu dikenakan biaya tiket. Untuk informasi tiket dan reservasi, silakan kunjungi bagian tiket reservation di website resmi TIM."
+  },
+  {
+    "instruction": "Taman Agrowisata Cilangkap adalah?",
+    "response": "Taman Agrowisata Cilangkap adalah destinasi wisata edukasi yang menggabungkan konsep pertanian, peternakan, dan rekreasi keluarga. Terletak di Jakarta Timur, tempat ini menawarkan pengalaman langsung berinteraksi dengan alam dan hewan ternak dalam suasana yang asri dan edukatif."
+  },
+  {
+    "instruction": "Dimana lokasi Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap berlokasi di Jalan Raya Cilangkap No. 3, Cilangkap, Cipayung, Jakarta Timur 13870. Lokasinya berada di kawasan yang masih asri dan mudah diakses dari pusat kota Jakarta."
+  },
+  {
+    "instruction": "Apa saja wahana di Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap menawarkan berbagai wahana seperti: area peternakan dengan kambing, sapi, dan unggas, kebun sayur organik, kolam pemancingan, playground anak, area piknik, flying fox, ATV, dan berbagai permainan outdoor lainnya. Cocok untuk wisata keluarga dan edukasi anak."
+  },
+  {
+    "instruction": "Jam operasional Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap buka setiap hari dari pukul 08.00 hingga 17.00 WIB. Pada hari libur dan weekend biasanya lebih ramai dikunjungi, jadi disarankan datang lebih pagi untuk menikmati suasana yang lebih tenang."
+  },
+  {
+    "instruction": "Berapa tiket masuk Taman Agrowisata Cilangkap?",
+    "response": "Untuk informasi harga tiket masuk dan paket wisata Taman Agrowisata Cilangkap yang terbaru, silakan kunjungi bagian tiket reservation di website resmi. Harga dapat berbeda untuk weekday dan weekend, serta tersedia paket grup dan rombongan."
+  },
+  {
+    "instruction": "Apakah ada paket edukasi di Taman Agrowisata Cilangkap?",
+    "response": "Ya, Taman Agrowisata Cilangkap menyediakan paket edukasi khusus untuk sekolah dan grup. Paket ini mencakup pembelajaran tentang pertanian, peternakan, dan lingkungan hidup. Untuk booking paket edukasi dan informasi detail, silakan akses bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Apa itu J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel adalah wahana bianglala raksasa yang menjadi ikon baru Jakarta. Dengan ketinggian yang mengesankan, wahana ini menawarkan pemandangan 360 derajat kota Jakarta dari ketinggian. Setiap gondola dilengkapi dengan AC dan kaca transparan untuk kenyamanan pengunjung."
+  },
+  {
+    "instruction": "Dimana lokasi J-Sky Ferris Wheel?",
+    "response": "J-Sky Ferris Wheel berlokasi di kawasan Jakarta yang strategis dengan akses mudah dari berbagai arah. Lokasinya berada di area yang ramai dan mudah dijangkau dengan berbagai moda transportasi. Alamat lengkap dapat dilihat di website resmi."
+  },
+  {
+    "instruction": "Berapa lama naik J-Sky Ferris Wheel?",
+    "response": "Satu putaran penuh J-Sky Ferris Wheel memakan waktu sekitar 15-20 menit. Waktu ini cukup untuk menikmati pemandangan Jakarta dari berbagai sudut dan mengambil foto yang menakjubkan. Setiap gondola dapat menampung beberapa orang dengan nyaman."
+  },
+  {
+    "instruction": "Kapan waktu terbaik naik J-Sky Ferris Wheel?",
+    "response": "Waktu terbaik untuk naik J-Sky Ferris Wheel adalah saat sore menjelang sunset (sekitar pukul 17.00-18.30) atau malam hari ketika lampu kota mulai menyala. Pemandangan pada waktu-waktu ini sangat spektakuler dan instagramable."
+  },
+  {
+    "instruction": "Bagaimana cara beli tiket J-Sky Ferris Wheel?",
+    "response": "Tiket J-Sky Ferris Wheel dapat dibeli di lokasi atau lebih baik reservasi online untuk menghindari antrian. Untuk pembelian tiket, harga, dan reservasi slot waktu, silakan kunjungi bagian tiket reservation di website resmi J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Apakah J-Sky Ferris Wheel aman untuk anak-anak?",
+    "response": "Ya, J-Sky Ferris Wheel sangat aman untuk anak-anak. Wahana ini dilengkapi dengan sistem keamanan berlapis, gondola yang stabil, dan operator yang berpengalaman. Namun anak-anak harus didampingi orang dewasa. Terdapat juga batasan usia minimum untuk keselamatan."
+  },
+  {
+    "instruction": "Apa itu Cibugary Farm?",
+    "response": "Cibugary Farm adalah destinasi agrowisata yang menggabungkan konsep pertanian modern dengan wisata edukasi. Tempat ini menawarkan pengalaman langsung bertani, berinteraksi dengan hewan ternak, dan menikmati suasana pedesaan yang asri di tengah kota Jakarta."
+  },
+  {
+    "instruction": "Dimana lokasi Cibugary Farm?",
+    "response": "Cibugary Farm berlokasi di kawasan Jakarta yang masih mempertahankan nuansa pedesaan. Lokasinya strategis dan dapat diakses dengan mudah menggunakan kendaraan pribadi maupun transportasi umum. Alamat lengkap tersedia di website resmi."
+  },
+  {
+    "instruction": "Apa saja aktivitas di Cibugary Farm?",
+    "response": "Di Cibugary Farm, pengunjung dapat melakukan berbagai aktivitas seperti: berkebun dan menanam sayuran, memberi makan hewan ternak, memerah susu sapi, workshop pertanian organik, cycling, fishing, dan menikmati makanan fresh from farm. Sangat cocok untuk family bonding dan edukasi anak."
+  },
+  {
+    "instruction": "Apakah Cibugary Farm cocok untuk anak-anak?",
+    "response": "Sangat cocok! Cibugary Farm dirancang khusus untuk wisata keluarga dengan fasilitas yang child-friendly. Anak-anak dapat belajar tentang pertanian, berinteraksi dengan hewan, dan bermain di area yang aman. Tersedia juga program edukasi khusus untuk anak-anak."
+  },
+  {
+    "instruction": "Bagaimana cara reservasi ke Cibugary Farm?",
+    "response": "Untuk reservasi kunjungan ke Cibugary Farm, terutama untuk grup atau rombongan, silakan akses bagian tiket reservation di website resmi. Reservasi direkomendasikan untuk memastikan ketersediaan fasilitas dan mendapatkan pengalaman yang optimal."
+  },
+  {
+    "instruction": "Apakah ada paket wisata untuk keempat tempat ini?",
+    "response": "Untuk informasi paket wisata yang menggabungkan kunjungan ke Taman Ismail Marzuki, Taman Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary Farm, silakan kunjungi bagian tiket reservation di website masing-masing tempat atau hubungi travel agent yang bekerja sama dengan keempat destinasi tersebut."
+  },
+  {
+    "instruction": "Tempat wisata mana yang paling cocok untuk keluarga?",
+    "response": "Keempat tempat ini sebenarnya cocok untuk keluarga dengan karakteristik berbeda: TIM untuk edukasi seni dan budaya, Taman Agrowisata Cilangkap untuk edukasi pertanian, J-Sky Ferris Wheel untuk pengalaman unik melihat Jakarta dari ketinggian, dan Cibugary Farm untuk pengalaman bertani. Pilihlah sesuai dengan minat keluarga Anda."
+  },
+  {
+    "instruction": "Mana yang lebih cocok untuk foto-foto bagus?",
+    "response": "Untuk foto yang instagramable, J-Sky Ferris Wheel menawarkan pemandangan spektakuler Jakarta dari ketinggian. TIM memiliki arsitektur dan taman yang artistik. Cibugary Farm dan Taman Agrowisata Cilangkap menawarkan suasana natural dan hijau yang cocok untuk foto keluarga dan nature photography."
+  },
+  {
+    "instruction": "Berapa budget yang diperlukan untuk mengunjungi keempat tempat ini?",
+    "response": "Budget yang diperlukan bervariasi tergantung pilihan aktivitas dan fasilitas yang digunakan. Untuk informasi harga tiket terbaru dan paket lengkap untuk keempat destinasi, silakan kunjungi bagian tiket reservation di website resmi masing-masing tempat atau hubungi customer service mereka."
+  },
+  {
+    "instruction": "Apakah ada diskon untuk grup?",
+    "response": "Sebagian besar tempat wisata menawarkan diskon khusus untuk grup atau rombongan. Untuk informasi detail mengenai diskon grup, syarat dan ketentuan, serta cara mendapatkannya, silakan akses bagian tiket reservation di website resmi masing-masing destinasi."
+  },
+  {
+    "instruction": "Transportasi apa yang paling mudah untuk mengunjungi keempat tempat ini?",
+    "response": "Untuk mengunjungi keempat tempat ini dalam satu hari, disarankan menggunakan kendaraan pribadi atau menyewa mobil karena lokasinya tersebar. TIM mudah diakses dengan transportasi umum, sementara yang lain lebih nyaman dengan kendaraan pribadi. Bisa juga menggunakan jasa tour guide yang sudah berpengalaman."
+  },
+  {
+    "instruction": "Apakah bisa booking online untuk semua tempat?",
+    "response": "Ya, untuk kemudahan dan menghindari antrian, sangat disarankan untuk melakukan booking online. Silakan kunjungi bagian tiket reservation di website resmi masing-masing destinasi untuk melakukan reservasi dan mendapatkan informasi terkini tentang ketersediaan tiket dan jadwal kunjungan."
+  },
+  {
+    "instruction": "Apa yang membuat tempat-tempat ini special?",
+    "response": "Keempat tempat ini menawarkan pengalaman unik: TIM sebagai pusat seni dan budaya Jakarta, Taman Agrowisata Cilangkap dengan konsep edukasi pertanian, J-Sky Ferris Wheel memberikan perspektif baru melihat Jakarta, dan Cibugary Farm menawarkan pengalaman bertani autentik. Masing-masing memiliki daya tarik yang berbeda dan saling melengkapi untuk wisata Jakarta yang berkesan."
+  },
+  {
+    "instruction": "Apakah ada makanan khas di tempat-tempat ini?",
+    "response": "Setiap tempat memiliki pilihan kuliner yang menarik. TIM memiliki food court dengan berbagai pilihan makanan, Taman Agrowisata Cilangkap dan Cibugary Farm menawarkan makanan fresh dari hasil pertanian mereka, sedangkan J-Sky Ferris Wheel biasanya memiliki area F&B dengan pemandangan yang menakjubkan. Informasi detail menu dapat dilihat di masing-masing website."
+  },
+  {
+    "instruction": "Kapan musim terbaik berkunjung ke tempat-tempat ini?",
+    "response": "Jakarta memiliki iklim tropis sehingga bisa dikunjungi sepanjang tahun. Namun untuk tempat outdoor seperti Taman Agrowisata Cilangkap dan Cibugary Farm, lebih nyaman dikunjungi saat musim kemarau (Juni-September). TIM dan J-Sky Ferris Wheel dapat dinikmati sepanjang tahun karena memiliki fasilitas indoor yang nyaman."
+  },
+  {
+    "instruction": "Adakah event khusus di tempat-tempat ini?",
+    "response": "Ya, terutama TIM yang sering mengadakan pertunjukan seni, pameran, dan acara budaya. Tempat lain juga mengadakan event seasonal seperti festival harvest di agrowisata. Untuk informasi event terbaru dan tiket untuk acara khusus, silakan cek bagian tiket reservation di website resmi masing-masing tempat."
+  },
+  {
+    "instruction": "Boleh bawa makanan sendiri ke tempat-tempat ini?",
+    "response": "Kebijakan membawa makanan berbeda-beda di setiap tempat. TIM umumnya memperbolehkan untuk area taman, sementara untuk agrowisata biasanya ada area picnic khusus. Untuk informasi detail mengenai kebijakan dan aturan di setiap tempat, silakan cek website resmi atau hubungi customer service melalui bagian tiket reservation."
+  },
+  {
+    "instruction": "Apakah ada guide atau pemandu wisata?",
+    "response": "Sebagian besar tempat menyediakan guide atau pemandu wisata, terutama untuk grup. TIM memiliki guide untuk tur budaya, agrowisata memiliki guide untuk edukasi pertanian. Untuk booking guide dan informasi biaya, silakan akses bagian tiket reservation di website resmi masing-masing tempat."
+  },
+  {
+    "instruction": "Fasilitas apa saja yang tersedia untuk penyandang disabilitas?",
+    "response": "Sebagian besar tempat wisata modern sudah memiliki fasilitas untuk penyandang disabilitas seperti ramp, toilet khusus, dan akses yang mudah. Namun untuk informasi detail mengenai fasilitas accessibility di setiap tempat, silakan hubungi customer service melalui bagian tiket reservation di website resmi."
+  },
+  {
+    "instruction": "Bagaimana cara cancel booking jika berhalangan?",
+    "response": "Setiap tempat memiliki kebijakan cancellation yang berbeda. Untuk informasi detail mengenai prosedur pembatalan booking, refund policy, dan syarat-syaratnya, silakan cek bagian tiket reservation di website resmi masing-masing destinasi atau hubungi customer service mereka."
+  },
+  {
+    "instruction": "Apakah ada promo khusus untuk warga Jakarta?",
+    "response": "Beberapa tempat wisata Jakarta memberikan promo khusus untuk warga lokal atau holder KTP Jakarta. Untuk informasi promo terbaru, diskon khusus, dan cara mendapatkannya, silakan kunjungi bagian tiket reservation di website resmi masing-masing tempat."
+  },
+  {
+    "instruction": "Apakah ada toko buku anak di dalam TIM?",
+    "response": "Ya, ada toko buku yang menyediakan buku-buku anak dan materi edukatif lainnya di TIM."
+  },
+  {
+    "instruction": "Apakah ada pertunjukan teater khusus anak di TIM?",
+    "response": "TIM secara berkala mengadakan pertunjukan teater khusus anak seperti dongeng musikal dan drama edukatif."
+  },
+  {
+    "instruction": "Apakah di TIM ada tempat makan dengan menu anak-anak?",
+    "response": "Ya, terdapat beberapa tempat makan yang menyediakan menu ramah anak di area TIM."
+  },
+  {
+    "instruction": "Apakah bisa membawa stroller ke dalam galeri seni TIM?",
+    "response": "Boleh, namun sebaiknya tetap memperhatikan ruang dan kenyamanan pengunjung lain."
+  },
+  {
+    "instruction": "Apakah tersedia ruang tunggu keluarga di TIM?",
+    "response": "Ya, ada beberapa ruang tunggu dengan kursi yang nyaman untuk orang tua dan anak-anak."
+  },
+  {
+    "instruction": "Apakah anak-anak bisa bermain alat musik di TIM?",
+    "response": "Beberapa program workshop musik di TIM memberikan kesempatan anak-anak untuk mencoba alat musik."
+  },
+  {
+    "instruction": "Apakah ada festival anak di TIM?",
+    "response": "TIM sering mengadakan festival seni dan budaya anak pada waktu tertentu seperti liburan sekolah."
+  },
+  {
+    "instruction": "Bisakah saya mengadakan kunjungan sekolah ke TIM?",
+    "response": "Bisa, kunjungan edukasi sekolah ke TIM bisa dijadwalkan melalui bagian layanan pengunjung."
+  },
+  {
+    "instruction": "Apakah tersedia pemandu wisata untuk anak-anak?",
+    "response": "Ya, tersedia pemandu yang akan membimbing anak-anak dalam kegiatan berkebun dan edukasi tanaman."
+  },
+  {
+    "instruction": "Apakah Taman Agrowisata cocok untuk ulang tahun anak?",
+    "response": "Cocok sekali. Area terbuka dan aktivitasnya sangat mendukung pesta ulang tahun dengan tema alam."
+  },
+  {
+    "instruction": "Apakah ada jalur sepeda anak di taman?",
+    "response": "Taman memiliki jalur datar yang bisa digunakan untuk bersepeda anak dengan pengawasan orang tua."
+  },
+  {
+    "instruction": "Apakah disediakan alat berkebun untuk anak?",
+    "response": "Ya, alat berkebun kecil yang aman disediakan untuk anak-anak dalam aktivitas menanam."
+  },
+  {
+    "instruction": "Apakah bisa melihat proses panen di taman?",
+    "response": "Bisa, anak-anak bisa ikut serta dalam kegiatan panen buah atau sayuran musiman."
+  },
+  {
+    "instruction": "Apakah taman ini ramai saat akhir pekan?",
+    "response": "Cukup ramai saat akhir pekan, disarankan datang pagi hari agar lebih nyaman untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah ada kios jajanan sehat di taman?",
+    "response": "Ya, tersedia kios makanan sehat seperti jus segar dan camilan berbasis hasil kebun."
+  },
+  {
+    "instruction": "Apakah anak-anak boleh menyentuh tanaman?",
+    "response": "Boleh, bahkan disarankan agar mereka bisa belajar langsung tentang tanaman secara interaktif."
+  },
+  {
+    "instruction": "Apakah bisa naik J-Sky di malam hari?",
+    "response": "Bisa, J-Sky tetap buka hingga malam dan justru pemandangan kota dari atas lebih indah saat malam."
+  },
+  {
+    "instruction": "Apakah gondola cukup luas untuk keluarga?",
+    "response": "Gondola cukup luas dan bisa memuat satu keluarga kecil dengan nyaman."
+  },
+  {
+    "instruction": "Apakah ada wahana lain selain bianglala?",
+    "response": "Fokus utamanya adalah bianglala, namun tersedia spot foto dan tempat duduk santai di sekitarnya."
+  },
+  {
+    "instruction": "Apakah J-Sky cocok untuk anak usia 3 tahun?",
+    "response": "Cocok, asal tetap didampingi orang tua saat berada di dalam gondola."
+  },
+  {
+    "instruction": "Bagaimana prosedur keamanan sebelum naik J-Sky?",
+    "response": "Petugas akan melakukan pengecekan keamanan dan memberi instruksi sebelum gondola mulai berputar."
+  },
+  {
+    "instruction": "Apakah anak-anak bisa melihat pemandangan dengan jelas dari gondola?",
+    "response": "Bisa, gondola memiliki kaca transparan penuh sehingga anak-anak bisa melihat pemandangan sekitar."
+  },
+  {
+    "instruction": "Apakah tiket J-Sky bisa dibatalkan?",
+    "response": "Kebijakan pembatalan tergantung pada tempat pembelian. Jika online, cek ketentuan platform tersebut."
+  },
+  {
+    "instruction": "Apakah ada toilet anak di dekat wahana?",
+    "response": "Tersedia toilet umum di dalam mall, termasuk toilet anak yang ramah keluarga."
+  },
+  {
+    "instruction": "Apa jadwal terbaik untuk melihat proses pemerahan sapi?",
+    "response": "Waktu terbaik biasanya pagi hari sekitar pukul 08.00 – 10.00 saat proses pemerahan berlangsung."
+  },
+  {
+    "instruction": "Apakah ada sesi memberi makan kambing?",
+    "response": "Ya, anak-anak bisa memberi makan kambing dengan rumput atau pelet yang disediakan."
+  },
+  {
+    "instruction": "Apakah ada petugas yang menjelaskan tentang hewan?",
+    "response": "Ada, petugas akan menjelaskan secara sederhana agar mudah dipahami anak-anak."
+  },
+  {
+    "instruction": "Apa saja hewan yang bisa dilihat anak-anak di sana?",
+    "response": "Anak-anak bisa melihat sapi, kambing, kelinci, ayam, dan beberapa hewan kecil lainnya."
+  },
+  {
+    "instruction": "Apakah Cibugary punya toko susu sendiri?",
+    "response": "Ya, Cibugary menjual produk olahan susu segar seperti susu botol dan yogurt buatan sendiri."
+  },
+  {
+    "instruction": "Apakah bisa membawa hewan peliharaan ke Cibugary?",
+    "response": "Demi keamanan, pengunjung tidak diperkenankan membawa hewan peliharaan sendiri."
+  },
+  {
+    "instruction": "Apakah tersedia paket edukasi untuk sekolah?",
+    "response": "Ya, tersedia paket kunjungan edukasi kelompok untuk sekolah dan TK dengan harga khusus."
+  },
+  {
+    "instruction": "Apakah ada tempat cuci tangan di area hewan?",
+    "response": "Tersedia beberapa wastafel untuk cuci tangan di dekat area interaksi dengan hewan."
+  },
+  {
+    "instruction": "Apakah ada tempat penitipan anak di TIM?",
+    "response": "Saat ini belum tersedia fasilitas penitipan anak di TIM, namun beberapa acara anak tetap menyediakan pendamping."
+  },
+  {
+    "instruction": "Bisakah anak-anak ikut menggambar di TIM?",
+    "response": "Bisa, sering diadakan lokakarya menggambar dan melukis untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah ada kegiatan literasi anak di TIM?",
+    "response": "Ya, Perpustakaan Jakarta di TIM sering mengadakan sesi dongeng dan membaca bersama anak."
+  },
+  {
+    "instruction": "Adakah spot foto ramah anak di TIM?",
+    "response": "Tersedia banyak spot foto menarik seperti taman, mural seni, dan area depan planetarium."
+  },
+  {
+    "instruction": "Apakah tersedia makanan ringan sehat untuk anak?",
+    "response": "Beberapa kafe dan stand makanan di TIM menjual camilan sehat seperti jus buah dan roti gandum."
+  },
+  {
+    "instruction": "Apa saja acara seni yang cocok untuk anak di TIM?",
+    "response": "Pertunjukan boneka, dongeng musikal, dan lomba menggambar rutin diadakan untuk anak."
+  },
+  {
+    "instruction": "Apakah ada ruang menyusui di TIM?",
+    "response": "Ya, tersedia ruang menyusui dan fasilitas bayi di area Perpustakaan dan Gedung Panjang."
+  },
+  {
+    "instruction": "Bisakah mengadakan kunjungan TK ke TIM?",
+    "response": "Bisa, banyak TK mengadakan kunjungan edukatif ke perpustakaan atau galeri TIM."
+  },
+  {
+    "instruction": "Apakah anak-anak boleh memetik buah di taman?",
+    "response": "Ya, pada musim panen anak-anak bisa ikut memetik buah langsung dengan pengawasan."
+  },
+  {
+    "instruction": "Apakah tersedia kursus berkebun untuk anak-anak?",
+    "response": "Ya, taman kadang mengadakan kursus singkat menanam dan merawat tanaman untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah aman bermain di dekat kolam ikan?",
+    "response": "Aman, namun anak-anak harus tetap diawasi saat berada di dekat kolam ikan."
+  },
+  {
+    "instruction": "Adakah jalur kursi roda di taman?",
+    "response": "Taman dilengkapi jalur datar dan ramah kursi roda serta stroller."
+  },
+  {
+    "instruction": "Apakah bisa melihat proses pembuatan kompos?",
+    "response": "Bisa, tersedia area edukasi tentang daur ulang dan kompos yang dapat diakses pengunjung."
+  },
+  {
+    "instruction": "Adakah waktu kunjungan terbaik untuk keluarga?",
+    "response": "Waktu terbaik adalah pagi hingga menjelang siang, saat cuaca masih sejuk."
+  },
+  {
+    "instruction": "Apakah tersedia tempat berteduh jika hujan?",
+    "response": "Ya, ada beberapa gazebo dan aula kecil sebagai tempat berteduh di area taman."
+  },
+  {
+    "instruction": "Bisakah anak-anak membawa pulang hasil tanamannya?",
+    "response": "Bisa, jika mengikuti program tanam dan panen, anak-anak bisa membawa pulang hasilnya."
+  },
+  {
+    "instruction": "Apakah gondola J-Sky ber-AC?",
+    "response": "Ya, seluruh gondola dilengkapi pendingin udara agar tetap nyaman."
+  },
+  {
+    "instruction": "Berapa lama durasi satu putaran J-Sky?",
+    "response": "Satu putaran biasanya memakan waktu sekitar 15 menit."
+  },
+  {
+    "instruction": "Apakah bisa naik J-Sky dengan bayi?",
+    "response": "Bisa, asalkan bayi dalam pengawasan dan digendong atau di pangku dengan aman."
+  },
+  {
+    "instruction": "Apakah disediakan sabuk pengaman dalam gondola?",
+    "response": "Ya, gondola dilengkapi sabuk pengaman untuk keamanan pengunjung."
+  },
+  {
+    "instruction": "Apakah boleh makan di dalam gondola?",
+    "response": "Makan dan minum di dalam gondola tidak diperbolehkan demi kebersihan dan keselamatan."
+  },
+  {
+    "instruction": "Apakah J-Sky tetap buka saat hujan?",
+    "response": "Jika hujan ringan, masih beroperasi. Namun akan ditutup sementara jika hujan lebat atau petir."
+  },
+  {
+    "instruction": "Apakah tersedia paket keluarga untuk J-Sky?",
+    "response": "Ya, ada tiket paket keluarga dengan harga khusus untuk beberapa orang sekaligus."
+  },
+  {
+    "instruction": "Apakah bisa reservasi tiket J-Sky sebelumnya?",
+    "response": "Bisa, tiket dapat dipesan secara online melalui situs resmi atau aplikasi tiket wisata."
+  },
+  {
+    "instruction": "Apakah ada paket wisata edukatif keluarga di Cibugary?",
+    "response": "Ya, tersedia paket keluarga yang mencakup tur peternakan, pemerahan, dan mencicipi susu segar."
+  },
+  {
+    "instruction": "Apakah susu di Cibugary bisa dicoba langsung dari peternakan?",
+    "response": "Bisa, tersedia produk susu segar hasil perahan sapi di lokasi."
+  },
+  {
+    "instruction": "Apakah ada arena bermain untuk anak-anak?",
+    "response": "Ada, tersedia area bermain sederhana untuk anak-anak di dekat kandang."
+  },
+  {
+    "instruction": "Apakah ada batasan usia anak untuk ikut tur peternakan?",
+    "response": "Tidak ada batasan khusus, tapi anak-anak harus dalam pengawasan orang tua."
+  },
+  {
+    "instruction": "Apakah dijual es krim susu segar di lokasi?",
+    "response": "Ya, es krim susu segar adalah salah satu favorit pengunjung anak-anak."
+  },
+  {
+    "instruction": "Bisakah anak memberi makan kelinci di Cibugary?",
+    "response": "Bisa, anak-anak diperbolehkan memberi makan kelinci dengan daun atau sayuran yang disediakan."
+  },
+  {
+    "instruction": "Apakah tersedia area duduk untuk keluarga?",
+    "response": "Tersedia bangku dan meja di area terbuka untuk tempat istirahat dan makan bersama keluarga."
+  },
+  {
+    "instruction": "Apakah bisa membeli oleh-oleh dari Cibugary?",
+    "response": "Bisa, tersedia oleh-oleh seperti susu segar botolan, yogurt, dan camilan susu lainnya."
+  },
+  {
+    "instruction": "Apakah ada planetarium di Taman Ismail Marzuki?",
+    "response": "Ya, di dalam kawasan Taman Ismail Marzuki terdapat Planetarium Jakarta yang menyajikan pertunjukan simulasi langit dan edukasi astronomi."
+  },
+  {
+    "instruction": "Fasilitas apa saja yang ada di TIM?",
+    "response": "Fasilitas di TIM antara lain gedung pertunjukan, galeri seni, bioskop, planetarium, ruang pameran, dan area terbuka hijau."
+  },
+  {
+    "instruction": "Apakah TIM bisa untuk tempat nongkrong?",
+    "response": "Bisa! Banyak pengunjung datang ke TIM untuk bersantai, nongkrong, atau sekadar menikmati suasana seni dan budaya yang kental."
+  },
+  {
+    "instruction": "Bagaimana cara pesan tiket pertunjukan di TIM?",
+    "response": "Silakan kunjungi website resmi TIM dan pilih menu 'Ticket Reservation' untuk memesan tiket pertunjukan."
+  },
+  {
+    "instruction": "Ada apa aja di Taman Agrowisata Cilangkap?",
+    "response": "Di sana kamu bisa menemukan kebun sayur, peternakan sapi dan kambing, kolam ikan, dan wahana outbond edukatif untuk anak-anak."
+  },
+  {
+    "instruction": "Apakah Taman Agrowisata Cilangkap cocok untuk edukasi anak?",
+    "response": "Sangat cocok! Tempat ini sering dijadikan lokasi wisata edukasi sekolah tentang pertanian dan peternakan."
+  },
+  {
+    "instruction": "Buka jam berapa Taman Agrowisata Cilangkap?",
+    "response": "Taman Agrowisata Cilangkap biasanya buka pukul 08.00–16.00 WIB. Namun jadwal dapat berubah, pastikan cek info terbaru di website mereka."
+  },
+  {
+    "instruction": "Cara beli tiket masuk ke Agrowisata Cilangkap?",
+    "response": "Pembelian tiket dapat dilakukan melalui website resmi di bagian 'Ticket Reservation'."
+  },
+  {
+    "instruction": "J-Sky Ferris Wheel itu apa sih?",
+    "response": "J-Sky Ferris Wheel adalah bianglala raksasa yang terletak di atas AEON Mall Jakarta Garden City. Dari atas, kamu bisa lihat pemandangan Jakarta dari ketinggian."
+  },
+  {
+    "instruction": "Berapa lama satu putaran di J-Sky Ferris Wheel?",
+    "response": "Satu putaran J-Sky Ferris Wheel memakan waktu sekitar 15 menit."
+  },
+  {
+    "instruction": "J-Sky Ferris Wheel cocok untuk siapa?",
+    "response": "Cocok untuk semua kalangan! Baik untuk keluarga, pasangan, maupun teman-teman yang ingin menikmati pengalaman unik."
+  },
+  {
+    "instruction": "Gimana cara pesan tiket J-Sky Ferris Wheel?",
+    "response": "Untuk pembelian tiket, silakan kunjungi bagian 'Ticket Reservation' di website resmi J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Cibugary Farm itu tempat apa?",
+    "response": "Cibugary Farm adalah peternakan edukatif di Cibubur yang memperkenalkan proses peternakan sapi perah dan pengolahan susu secara langsung kepada pengunjung."
+  },
+  {
+    "instruction": "Apa kegiatan seru di Cibugary?",
+    "response": "Beberapa aktivitas favorit adalah memberi makan ternak, memerah susu sapi, menunggang kuda, dan tur keliling peternakan."
+  },
+  {
+    "instruction": "Apakah Cibugary menyediakan tur edukasi?",
+    "response": "Ya, tersedia tur edukatif untuk anak sekolah maupun keluarga yang ingin belajar tentang peternakan modern."
+  },
+  {
+    "instruction": "Bagaimana cara reservasi kunjungan ke Cibugary Farm?",
+    "response": "Reservasi bisa dilakukan melalui website resmi mereka di bagian 'Ticket Reservation'."
+  },
+  {
+    "instruction": "Apakah keempat tempat ini ramah anak?",
+    "response": "Ya, semua tempat ini—TIM, Agrowisata Cilangkap, J-Sky Ferris Wheel, dan Cibugary—ramah untuk anak-anak dengan berbagai aktivitas edukatif dan menyenangkan."
+  },
+  {
+    "instruction": "Ada tempat makan nggak di sekitar J-Sky Ferris Wheel?",
+    "response": "Karena terletak di AEON Mall, banyak sekali pilihan makanan di food court atau restoran sekitar J-Sky Ferris Wheel."
+  },
+  {
+    "instruction": "Kalau dari Stasiun Cikini ke TIM naik apa?",
+    "response": "Dari Stasiun Cikini kamu bisa jalan kaki sekitar 10 menit ke arah Jalan Cikini Raya, sangat dekat dan mudah dijangkau."
+  },
+  {
+    "instruction": "Apakah saya bisa foto-foto di Taman Agrowisata Cilangkap?",
+    "response": "Boleh! Tempat ini cocok untuk foto keluarga dan anak-anak, apalagi di area peternakan dan kebun."
+  },
+  {
+    "instruction": "Apakah ada tiket terusan untuk semua wahana di J-Sky?",
+    "response": "Untuk informasi tiket terusan atau promo, silakan cek langsung ke bagian 'Ticket Reservation' di website resmi J-Sky Ferris Wheel."
+  }
+]

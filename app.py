@@ -14,6 +14,8 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 import os
 from flask import Flask, request, jsonify, render_template
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Setup logging
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s - %(message)s',
@@ -54,6 +56,11 @@ else:
     # Memuat dataset
     dataset = load_dataset(dataset_path)
     logger.info(f"Dataset loaded with {len(dataset)} examples")
+
+# Siapkan vectorizer dan matrix pertanyaan dataset
+questions = [item['instruction'] for item in dataset]
+vectorizer = TfidfVectorizer().fit(questions)
+question_matrix = vectorizer.transform(questions)
 
 # Split dataset into train and validation
 if len(dataset) > 1:
@@ -212,10 +219,9 @@ def generate_response(question, max_length=50):
                 hidden_states = encoder_outputs.last_hidden_state
                 
                 # Use encoder output to predict next token
-                # Simplified for demonstration - in a real seq2seq model, 
-                # you would use a proper decoder with attention to encoder outputs
+                # logits shape: [batch, vocab_size]
                 logits = model.decoder_layer(hidden_states[:, 0, :])  # Use [CLS] token representation
-                next_token_logits = logits[0, 0, :]
+                next_token_logits = logits[0, :]  # Ambil seluruh vocab untuk batch pertama
                 
                 # Sample next token (could use temperature, top-k, etc.)
                 next_token = torch.argmax(next_token_logits).item()
@@ -415,6 +421,26 @@ def create_template():
 # Buat template saat aplikasi dimulai
 create_template()
 
+# Siapkan pertanyaan dari dataset
+questions = [item['instruction'] for item in dataset]
+
+# Load BERT model dan tokenizer untuk embedding (sekali saja)
+bert_model_name = "indobenchmark/indobert-base-p1"
+embed_tokenizer = BertTokenizer.from_pretrained(bert_model_name)
+embed_model = BertModel.from_pretrained(bert_model_name)
+embed_model.eval()
+
+def get_sentence_embedding(text):
+    with torch.no_grad():
+        inputs = embed_tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=64)
+        outputs = embed_model(**inputs)
+        # Mean pooling
+        embeddings = outputs.last_hidden_state.mean(dim=1)
+        return embeddings[0].numpy()
+
+# Precompute embedding untuk semua pertanyaan di dataset (cache)
+question_embeddings = np.array([get_sentence_embedding(q) for q in questions])
+
 @app.route('/')
 def home():
     return render_template('index.html')
@@ -426,19 +452,34 @@ def chat():
     
     if not question:
         return jsonify({'error': 'Pesan tidak boleh kosong'}), 400
-    
-    try:
-        # Cek dataset dummy
-        for item in dataset:
-            if question.lower() in item['instruction'].lower():
-                return jsonify({'response': item['response']})
-                
-        # Jika tidak ada di dataset dummy, gunakan model
-        response = generate_response(question)
-        return jsonify({'response': response})
-    except Exception as e:
-        logger.error(f"Error in chat endpoint: {str(e)}")
-        return jsonify({'error': str(e)}), 500
+
+    # Dapatkan embedding pertanyaan user
+    user_embedding = get_sentence_embedding(question)
+    # Hitung cosine similarity dengan semua pertanyaan di dataset
+    similarities = cosine_similarity([user_embedding], question_embeddings)[0]
+    max_sim = similarities.max()
+    idx_sim = similarities.argmax()
+
+    if max_sim > 0.7:
+        # Retrieval: Jawab dari dataset (RAG-style)
+        return jsonify({'response': dataset[idx_sim]['response']})
+    elif max_sim > 0.5:
+        # Generation: Coba model generatif, fallback ke default jika gagal
+        try:
+            response = generate_response(question)
+            if (
+                not response or
+                len(response.strip()) < 5 or
+                not re.search(r'[a-zA-Z0-9\u00C0-\u024F]', response)
+            ):
+                return jsonify({'response': 'Maaf, saya belum bisa menjawab pertanyaan tersebut. Silakan tanyakan hal lain seputar tempat wisata di Jakarta.'})
+            return jsonify({'response': response})
+        except Exception as e:
+            logger.error(f"Error in chat endpoint: {str(e)}")
+            return jsonify({'response': 'Maaf, saya belum bisa menjawab pertanyaan tersebut. Silakan tanyakan hal lain seputar tempat wisata di Jakarta.'})
+    else:
+        # Out-of-domain: Balas default
+        return jsonify({'response': 'Maaf, saya belum bisa menjawab pertanyaan tersebut. Silakan tanyakan hal lain seputar tempat wisata di Jakarta.'})
 
 if __name__ == '__main__':
     # Coba inisialisasi model - jika gagal, aplikasi tetap berjalan
